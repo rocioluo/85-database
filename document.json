@@ -1,0 +1,5 @@
+create (cover_of_the_booklet_international_youth_year:Action{exhibition_id:"12",type:"document",document_topic:"Jiangsu Youth Art Week",year:"1985",picture_name:"Cover of the booklet International Youth Year, Jiangsu Youth Art Week,1985"})
+create (jiangsu_youth_art_week_large_modern_art_exhibition_exhibition contract:Document{document_id:"13",type:"document",document_topic:"Jiangsu Youth Art Week",year:"1985",picture_name:"Jiangsu Youth Art Week,Large Modern Art Exhibition,exhibition contract,1985"})
+create (jiangsu_youth_art_week_large_modern_art_exhibition_scene1:Document{document_id:"14",type:"document",document_topic:"Jiangsu Youth Art Week",year:"1985",picture_name:"Jiangsu Youth Art Week,Large Modern Art Exhibition,scene 1, 1985"})
+create (jiangsu_youth_art_week_large_modern_art_exhibition_scene2:Document{document_id:"15",type:"document",document_topic:"Jiangsu Youth Art Week",year:"1985",picture_name:"Jiangsu Youth Art Week,Large Modern Art Exhibition,scene 2, 1985"})
+create (star_group_exhibition_senerio1:Exhibition{exhibition_id:"1",group_name:"star exhibition",type:"senerio",exhibition_place:"Beijing",year:"1979",artist_name:"Wang Keping"})

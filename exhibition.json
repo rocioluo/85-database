@@ -1,0 +1,4 @@
+create (1st_star_group_exhibition:Exhibition{exhibition_id:"1",exhibition_name:"1st Star Group Exhibition"})
+create (2nd_star_group_exhibition:Exhibition{exhibition_id:"2",exhibition_name:"2nd Star Group Exhibition"})
+create (northern_artists_group_biennial:Exhibition{exhibition_id:"3",exhibition_name:"Northern Artists Group Biennial"})
+create (jiangsu_youth_art_week_large_modern_art_exhibition:Exhibition{exhibition_id:"4",exhibition_name:"Jiangsu Youth Art Week,Large Modern Art Exhibition"})
