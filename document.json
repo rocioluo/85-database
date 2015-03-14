@@ -15,4 +15,32 @@ create (white_sail_art_photography_exhibition_album_content1,:Document{document_
 create (white_sail_art_photography_exhibition_album_content2,:Document{document_id:"15",type:"document",document_topic:"White Sail",year:"1985",picture_name:"White Sail Art Photography Exhibition Album, content 2,1985"})
 create (white_sail_art_photography_exhibition_album_invitation,:Document{document_id:"16",type:"document",document_topic:"White Sail",year:"1985",picture_name:"White Sail Art Photography Exhibition Album,invitation,1985"})
 create (magazine_white_sail,:Document{document_id:"17",type:"document",document_topic:"White Sail",year:"1985",picture_name: "Magazine White Sail, 1985"})
-create (red_journey_first_posthouse_painting_exhibition_academic _conference_ccence,:Document{document_id:"17",type:"document",document_topic:"Red Journey",year:"1987",picture_name: "Red,Journey, "First Posthouse Painting Exhibition" Academic Conference Scence, From left to right:Yang Zhiling, Chen Dali,Shen Xingong, Ding Fang, Guan Ce, Liu Ming, Cao Xiaodong, Yu Qiping， Chai Xiaogang, Su Xianting， Fang Jun, Liu Wei,1987.5.20"})
+create (red_journey_first_posthouse_painting_exhibition_academic _conference_ccence:Document{document_id:"18",type:"document",document_topic:"Red Journey",year:"1987",picture_name: "Red,Journey, "First Posthouse Painting Exhibition" Academic Conference Scence, From left to right:Yang Zhiling, Chen Dali,Shen Xingong, Ding Fang, Guan Ce, Liu Ming, Cao Xiaodong, Yu Qiping， Chai Xiaogang, Su Xianting， Fang Jun, Liu Wei,1987.5.20"})
+create (about_x1:Document{document_id:"19",type:"document",document_topic:"work draft",year:"1985",picture_name: "Zhang Peili,About "x?" draft 1, 1985"})
+create (about_x2:Document{document_id:"20",type:"document",document_topic:"work draft",year:"1985",picture_name: "Zhang Peili,About "x?" draft 2, 1985"})
+create (first_shanghai_youth_artwork_exhibition_cover:Document{document_id:"21",type:"document",document_topic:"work draft",year:"1985",picture_name: "Zhang Peili,About "x?" draft 2, 1985"})
+create(sea_level_86_cover:Document{document_id:"22",type:"document",document_topic:"document",year:"1986",picture_name: "Sea Level '86 Cover"}
+create(sea_level_86_title_page:Document{document_id:"23",type:"document",document_topic:"document",year:"1986",picture_name: "Sea Level '86 Cover Page"}
+create(sea_level_86_page1:Document{document_id:"24",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 1"}
+create(sea_level_86_page2:Document{document_id:"25",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 2"}
+create(sea_level_86_page3:Document{document_id:"25",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 3"}
+create(sea_level_86_page4:Document{document_id:"26",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 4"}
+create(sea_level_86_page5:Document{document_id:"28",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 5"}
+create(sea_level_86_page6:Document{document_id:"29",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 6"}
+create(sea_level_86_page7:Document{document_id:"30",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 7"}
+create(sea_level_86_page8:Document{document_id:"31",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 8"}
+create(sea_level_86_page8:Document{document_id:"32",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Concave – Convex Exhibition Post, 1986"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

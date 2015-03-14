@@ -137,13 +137,44 @@ create(swimmers:Work{work_id:"136",type:"work",work_name:" Swimmers",work_materi
 create(abstract223:Work{work_id:"137",type:"work",work_name:" Abstract 223",work_material:"oil on canvas",year:"1985",artist_name:"Zhang Peili", picture_name:"Zhang Peili,Abstract 223, oil on canvas, 1985"})
 create(abstract230:Work{work_id:"138",type:"work",work_name:" Abstract 230",work_material:"oil on canvas",year:"1985",artist_name:"Zhang Peili", picture_name:"Zhang Peili,Abstract 230, oil on canvas, 1985"})
 create(abstract334:Work{work_id:"139",type:"work",work_name:" Abstract 334",work_material:"oil on canvas",year:"1985",artist_name:"Zhang Peili", picture_name:"Zhang Peili,Abstract 334, oil on canvas, 1985"})
-
-
-
-
-
-
-
+create(haircut4_fashinable_style_in_summer_in_1985:Work{work_id:"140",type:"work",work_name:" Haircut 4--Fashinable Style in Summer in 1985",work_material:"oil on canvas",year:"1985",artist_name:"Geng Jianli", picture_name:"Geng Jianli, Haircut 4--Fashinable Style in Summer in 1985, oil on canvas, 1985"})
+create(white_pipe:Work{work_id:"141",type:"work",work_name:" White Pipe",work_material:"oil on canvas",year:"1985",artist_name:"Song Lin", picture_name:"Song Lin, White Pipe, oil on canvas, 1985"})
+create(people_pipe2:Work{work_id:"142",type:"work",work_name:" People Pipe 2",work_material:"oil on canvas",year:"1985",artist_name:"Song Lin", picture_name:"Song Lin, People Pipe 2, oil on canvas, 1985"})
+create(silent_dialogue:Work{work_id:"143",type:"work",work_name:" Silent Dialogue",work_material:"oil on canvas",year:"1985",artist_name:"Song Lin", picture_name:"Song Lin, Silent Dialogue, oil on canvas, 1985"})
+create(no_title2:Work{work_id:"144",type:"work",work_name:" No Title",work_material:"oil on canvas",year:"1985",artist_name:"Song Lin", picture_name:"Song Lin, No Title, oil on canvas, 1985"})
+create(new_space_no1:Work{work_id:"145",type:"work",work_name:" New Space No.1",work_material:"oil on canvas",year:"1985",artist_name:"Bao Jianfei", picture_name:"Bao Jianfei, New Space No.1, oil on canvas, 1985"})
+create(new_space_no2:Work{work_id:"146",type:"work",work_name:" New Space No.2",work_material:"oil on canvas",year:"1985",artist_name:"Bao Jianfei", picture_name:"Bao Jianfei, New Space No.2, oil on canvas, 1985"})
+create(new_space_no3:Work{work_id:"147",type:"work",work_name:" New Space No.3",work_material:"oil on canvas",year:"1985",artist_name:"Bao Jianfei", picture_name:"Bao Jianfei, New Space No.3, oil on canvas, 1985"})
+create(amateur_painter:Work{work_id:"148",type:"work",work_name:"Amateur Painter",work_material:"oil on canvas",year:"1985",artist_name:"Wang Qiang", picture_name:"Wang Qiang, Amateur Painter, oil on canvas, 1985"})
+create(walking_man:Work{work_id:"149",type:"work",work_name:"Walking Man",work_material:"oil on canvas",year:"1985",artist_name:"Wang Qiang", picture_name:"Wang Qiang,Walking Man, oil on canvas, 1985"})
+create(painting_no1:Work{work_id:"150",type:"work",work_name:"Painting No.1",work_material:"oil on canvas",year:"1985",artist_name:"Cha Li", picture_name:"Cha Li,Painting No.1, oil on canvas, 1985"})
+create(painting_no2:Work{work_id:"151",type:"work",work_name:"Painting No.2",work_material:"oil on canvas",year:"1985",artist_name:"Cha Li", picture_name:"Cha Li,Painting No.2, oil on canvas, 1985"})
+create(dialogue2:Work{work_id:"152",type:"work",work_name:"Dialogue",work_material:"oil on canvas",year:"1985",artist_name:"Xu Jin", picture_name:"Xu Jin,Dialogue, oil on canvas, 1985"})
+create(introspection:Work{work_id:"153",type:"work",work_name:"Introspection",work_material:"oil on canvas",year:"1985",artist_name:"Xu Jin", picture_name:"Xu Jin,Introspection, oil on canvas, 1985"})
+create(decline_to_perspective:Work{work_id:"154",type:"work",work_name:"Decline to Perspective",work_material:"oil on canvas",year:"1985",artist_name:"Cao Xuelei", picture_name:"Cao Xuelei,Decline to Perspective, oil on canvas, 1985"})
+create(no_title_no7:Work{work_id:"155",type:"work",work_name:"No Title No.7",work_material:"oil on canvas",year:"1985",artist_name:"Wang Guojun", picture_name:"Wang Guojun,No Title No.7, oil on canvas, 1985"})
+create(no_title_no12:Work{work_id:"156",type:"work",work_name:"No Title No.12",work_material:"oil on canvas",year:"1985",artist_name:"Wang Guojun", picture_name:"Wang Guojun,No Title No.12, oil on canvas, 1985"})
+create(no_title_no12:Work{work_id:"157",type:"work",work_name:"No Title No.12",work_material:"oil on canvas",year:"1985",artist_name:"Wang Guojun", picture_name:"Wang Guojun,No Title No.12, oil on canvas, 1985"})
+create(brown_book_no1_draw_lots:Work{work_id:"158",type:"work",work_name:"Brown Book No.1 Draw Lots",work_material:"oil on canvas",year:"1985",artist_name:"Zhang Peili", picture_name:"Zhang Peili,Brown Book No.1 Draw Lots, performance art, 1985"})
+create(brown_book_no1_writing_name_and address:Work{work_id:"159",type:"work",work_name:"Brown Book No.1 Writing Name And Address",work_material:"oil on canvas",year:"1985",artist_name:"Zhang Peili", picture_name:"Zhang Peili,Brown Book No.1 Writing Name And Address, performance art, 1988"})
+create(brown_book_no1_post:Work{work_id:"160",type:"work",work_name:"Brown Book No.1 Post",work_material:"oil on canvas",year:"1985",artist_name:"Zhang Peili", picture_name:"Zhang Peili,Brown Book No.1 Post, performance art, 1988"})
+create(brown_book_no1_post:Work{work_id:"161",type:"work",work_name:"Brown Book No.1 Post",work_material:"oil on canvas",year:"1985",artist_name:"Zhang Peili", picture_name:"Zhang Peili,Brown Book No.1 Post, performance art, 1988"})
+create(work_no1:Work{work_id:"162",type:"work",work_name:"Work No.1",work_material:"oil on canvas",year:"1985",artist_name:"Yu Youhan", picture_name:"Yu Youhan,Work No.1, performance art, 1988"})
+create(work_no3:Work{work_id:"163",type:"work",work_name:"Work No.3",work_material:"oil on canvas",year:"1985",artist_name:"Feng Lianghong", picture_name:"Feng Lianghong,Work No.3, performance art, 1988"})
+create(no_title3:Work{work_id:"164",type:"work",work_name:"no_title",work_material:"oil on canvas",year:"1985",artist_name:"Feng Lianghong", picture_name:"Feng Lianghong,No Title, performance art, 1988"})
+create(copy_of_iron_scrap:Work{work_id:"165",type:"work",work_name:"Copy of Iron Scrap",work_material:"engraving",year:"1985",artist_name:"Gong Jianqing", picture_name:"Gong Jianqing,Copy of Iron Scrap, engraving, 1985"})
+create(halley:Work{work_id:"166",type:"work",work_name:"Halley",work_material:"engraving",year:"1985",artist_name:"Gong Jianqing", picture_name:"Gong Jianqing,Halley, engraving, 1985"})
+create(another_judgement:Work{work_id:"167",type:"work",work_name:"Another Judgement",work_material:"engraving",year:"1985",artist_name:"Gong Jianqing", picture_name:"Gong Jianqing,Another Judgement, engraving, 1985"})
+create(reverie:Work{work_id:"168",type:"work",work_name:"Reverie",work_material:"engraving",year:"1985",artist_name:"Gong Jianqing", picture_name:"Gong Jianqing,Reverie, engraving, 1985"})
+create(breeze:Work{work_id:"169",type:"work",work_name:"Breeze",work_material:"engraving",year:"1985",artist_name:"Wang Xiaojun", picture_name:"Wang Xiaojun,Breeze, engraving, 1985"})
+create(tear_the_sky:Work{work_id:"170",type:"work",work_name:"Tear The Sky",work_material:"engraving",year:"1985",artist_name:"Wang Xiaojun", picture_name:"Wang Xiaojun,Tear The Sky, engraving, 1985"})
+create(yun_nan_girl_and_horse:Work{work_id:"171",type:"work",work_name:"Yun Nan Girl and Horse",work_material:"engraving",year:"1984",artist_name:"Wang Xiaojun", picture_name:"Wang Xiaojun,Yun Nan Girl and Horse, engraving, 1984"})
+create(breakfast:Work{work_id:"172",type:"work",work_name:"Breakfast",work_material:"engraving",year:"1984",artist_name:"Wang Xiaojun", picture_name:"Wang Xiaojun,Breakfast, engraving, 1984"})
+create(eastern_festival_without_date:Work{work_id:"173",type:"work",work_name:"Eastern Festival Without Date" ,work_material:"engraving",year:"1984",artist_name:"Yang hui", picture_name:"Yang hui,Eastern Festival Without Date, engraving, 1984"})
+create(chinese_qingming_festival_runs_its_course3:Work{work_id:"174",type:"work",work_name:"Chinese Qingming Festival Runs Its Course 3" ,work_material:"triple engraving",year:"1984",artist_name:"Yang hui", picture_name:"Yang hui,Chinese Qingming Festival Runs Its Course 3,triple engraving, 1984"})
+create(chinese_qingming_festival_runs_its_course1:Work{work_id:"175",type:"work",work_name:"Chinese Qingming Festival Runs Its Course 1" ,work_material:"engraving",year:"1984",artist_name:"Yang hui", picture_name:"Yang hui,Chinese Qingming Festival Runs Its Course 1,triple engraving, 1984"})
+create(farewell:Work{work_id:"176",type:"work",work_name:"Master" ,work_material:"triple engraving",year:"1985",artist_name:"Zhou Shilong", picture_name:"Zhou Shilong,Master,engraving, 1985"})
+create(sweet_potato:Work{work_id:"176",type:"work",work_name:"Sweet Potato" ,work_material:"engraving",year:"1985",artist_name:"Zhou Shilong", picture_name:"Zhou Shilong,Sweet Potato,engraving, 1985"})
 
 
 

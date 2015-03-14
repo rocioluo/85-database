@@ -2,3 +2,7 @@ create (1st_star_group_exhibition:Exhibition{exhibition_id:"1",exhibition_name:"
 create (2nd_star_group_exhibition:Exhibition{exhibition_id:"2",exhibition_name:"2nd Star Group Exhibition"})
 create (northern_artists_group_biennial:Exhibition{exhibition_id:"3",exhibition_name:"Northern Artists Group Biennial"})
 create (jiangsu_youth_art_week_large_modern_art_exhibition:Exhibition{exhibition_id:"4",exhibition_name:"Jiangsu Youth Art Week,Large Modern Art Exhibition"})
+create (contemporary_painting_six_people_exhibition:Exhibition{exhibition_id:"5",exhibition_name:"Contemporary Painting Six People Exhibition"})
+create(first_shanghai_youth_artwork_exhibition:Exhibition{exhibition_id:"6",exhibition_name:"First Shanghai Youth Artwork Exhibition"})
+create(sea_level_86:Exhibition{exhibition_id:"7",exhibition_name:"Sea Level '86"})
+create(concave_convex_exhibition, 1986:Exhibition{exhibition_id:"8",exhibition_name:"Concave – Convex Exhibition Post, 1986"})
