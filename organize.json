@@ -189,20 +189,63 @@ create(impression_of_fast_food_restaurant:Work{work_id:"188",type:"work",work_na
 create(portrait:Work{work_id:"189",type:"work",work_name:"Portrait" ,work_material:"oil on canvas",year:"1986",artist_name:"Chen Zhen", picture_name:"Chen Zhen,Portrait,oil on canvas, 1986"})
 create(no_title5:Work{work_id:"190",type:"work",work_name:"No Title" ,work_material:"oil on canvas",year:"1986",artist_name:"Chen Zhen", picture_name:"Chen Zhen,No Title,oil on canvas, 1986"})
 create(qi:Work{work_id:"191",type:"work",work_name:"Qi" ,year:"1984",artist_name:"Chen Zhen", picture_name:"Chen Zhen,Qi, 1986"})
-create(revelation_horse_and_sun_series1:Work{work_id:"192",type:"work",work_name:"Revelation-Horse and Sun Series 1" ,year:"1986",artist_name:"Ye Mu", picture_name:"Ye Mu,Revelation Horse And Sun Series, 1986"})
-create(revelation_horse_and_sun_series2:Work{work_id:"193",type:"work",work_name:"Revelation-Horse and Sun Series 2" ,year:"1986",artist_name:"Chen Zhen", picture_name:"Ye Mu,Revelation-Horse and Sun Series 2, 1986"})
-create(chair_and_people:Work{work_id:"194",type:"work",work_name:"Chair and People" ,year:"1985",artist_name:"Shen Fan", picture_name:"Shen Fan,Chair and People, 1985"})
+create(revelation_horse_and_sun_series1:Work{work_id:"192",type:"work",work_name:"Revelation-Horse and Sun Series 1" ,work_material:"oil on canvas",year:"1986",artist_name:"Ye Mu", picture_name:"Ye Mu,Revelation Horse And Sun Series, 1986"})
+create(revelation_horse_and_sun_series2:Work{work_id:"193",type:"work",work_name:"Revelation-Horse and Sun Series 2" ,work_material:"oil on canvas",year:"1986",artist_name:"Chen Zhen", picture_name:"Ye Mu,Revelation-Horse and Sun Series 2,oil on canvas, 1986"})
+create(chair_and_people:Work{work_id:"194",type:"work",work_name:"Chair and People" ,work_material:"oil on canvas",year:"1985",artist_name:"Shen Fan", picture_name:"Shen Fan,Chair and People,oil on canvas, 1985"})
 create(breeding:Work{work_id:"195",type:"work",work_name:"Chair and People" ,year:"1985",artist_name:"Zhou Changjiang", picture_name:"Zhou Changjiang,Breeding, 1985"})
-create(yin_and_yang_day_and_night_being_equally_separated:Work{work_id:"196",type:"work",work_name:"Yin and Yang Day and Night Being Equally Separated" ,year:"1985",artist_name:"Mo Tuo", picture_name:"Mo Tuo,Yin and Yang Day and Night Being Equally Separated, 1985"})
-create(owl:Work{work_id:"197",type:"work",work_name:"Owl" ,year:"1985",artist_name:"Wang Hui", picture_name:"Wang Hui,Owl, 1985"})
-create(knee_capper:Work{work_id:"198",type:"work",work_name:"Knee-Capper" ,year:"1985",artist_name:"Zhou Peide", picture_name:"Zhou Peide,Knee-Capper, 1985"})
-create(no_title6:Work{work_id:"199",type:"work",work_name:"No Title" ,year:"1984",artist_name:"Song Haidong", picture_name:"Song Haidong,No Title, 1984"})
-create(creating_object:Work{work_id:"200",type:"work",work_name:"Creating Object" ,year:"1984",artist_name:"Xiao Xiaolan", picture_name:"Xiao Xiaolan,Creating Object, 1984"})
-create(between0_to_1:Work{work_id:"201",type:"work",work_name:"Between 0 to 1" ,year:"1985",artist_name:"Lei Min", picture_name:"Lei Min,Between 0 to 1, 1985"})
-create(no_title7:Work{work_id:"202",type:"work",work_name:"No Title" ,year:"1985",artist_name:"Xu Hong", picture_name:"Xu Hong,No Title, 1985"})
-create(no_title8:Work{work_id:"203",type:"work",work_name:"No Title" ,year:"1986",artist_name:"Sun Liang", picture_name:"Sun Liang,No Title, 1986"})
-create(flouting_wing:Work{work_id:"204",type:"work",work_name:"Flouting Wing" ,year:"1986",artist_name:"Sun Liang", picture_name:"Sun Liang,Flouting Wing, 1986"})
-create(strange_landscape:Work{work_id:"205",type:"work",work_name:"Strange Landscape" ,year:"1984",artist_name:"Yu Jiangang", picture_name:"Yu Jiangang,Strange Landscape, 1984"})
+create(yin_and_yang_day_and_night_being_equally_separated:Work{work_id:"196",type:"work",work_name:"Yin and Yang Day and Night Being Equally Separated",work_material:"oil on canvas" ,year:"1985",artist_name:"Mo Tuo", picture_name:"Mo Tuo,Yin and Yang Day and Night Being Equally Separated, oil on canvas,1985"})
+create(owl:Work{work_id:"197",type:"work",work_name:"Owl" ,work_material:"copper",year:"1985",artist_name:"Wang Hui", picture_name:"Wang Hui,Owl,copper, 1985"})
+create(knee_capper:Work{work_id:"198",type:"work",work_name:"Knee-Capper" ,work_material:"copper",year:"1985",artist_name:"Zhou Peide", picture_name:"Zhou Peide,Knee-Capper, copper,1985"})
+create(no_title6:Work{work_id:"199",type:"work",work_name:"No Title" ,work_material:"oil on canvas" ,year:"1984",artist_name:"Song Haidong", picture_name:"Song Haidong,No Title, 1984"})
+create(creating_object:Work{work_id:"200",type:"work",work_name:"Creating Object",work_material:"oil on canvas"  ,year:"1984",artist_name:"Xiao Xiaolan", picture_name:"Xiao Xiaolan,Creating Object, oil on canvas,1984"})
+create(between0_to_1:Work{work_id:"201",type:"work",work_name:"Between 0 to 1" ,work_material:"etching" ,year:"1985",artist_name:"Lei Min", picture_name:"Lei Min,Between 0 to 1, etching, 1985"})
+create(no_title7:Work{work_id:"202",type:"work",work_name:"No Title" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Xu Hong", picture_name:"Xu Hong,No Title, oil on canvas,1985"})
+create(no_title8:Work{work_id:"203",type:"work",work_name:"No Title" ,year:"1986",artist_name:"Sun Liang", picture_name:"Sun Liang,No Title,oil on canvas, 1986"})
+create(flouting_wing:Work{work_id:"204",type:"work",work_name:"Flouting Wing" ,work_material:"oil on canvas" ,year:"1986",artist_name:"Sun Liang", picture_name:"Sun Liang,Flouting Wing, oil on canvas,1986"})
+create(strange_landscape:Work{work_id:"205",type:"work",work_name:"Strange Landscape" ,work_material:"oil on canvas" ,year:"1984",artist_name:"Yu Jiangang", picture_name:"Yu Jiangang,Strange Landscape, oil on canvas, 1984"})
+create(red_black_white_chinese_cabbage:Work{work_id:"206",type:"work",work_name:"Red Black White Chinese Cabbage" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White Chinese Cabbage, composite materials, 1986"})
+create(red_black_white_money:Work{work_id:"207",type:"work",work_name:"Red Black White Chinese Cabbage" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White Money, composite materials, 1986"})
+create(red_black_white4:Work{work_id:"208",type:"work",work_name:"Red Black White 4" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 4, composite materials, 1986"})
+create(red_black_white6:Work{work_id:"209",type:"work",work_name:"Red Black White 6" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 6, composite materials, 1986"})
+create(red_black_white8:Work{work_id:"210",type:"work",work_name:"Red Black White 8" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 8, composite materials, 1986"})
+create(red_black_white11:Work{work_id:"211",type:"work",work_name:"Red Black White 11" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 11, composite materials, 1986"})
+create(red_black_white13:Work{work_id:"212",type:"work",work_name:"Red Black White 13" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 13, composite materials, 1986"})
+create(red_black_white18:Work{work_id:"213",type:"work",work_name:"Red Black White 18" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 18, composite materials, 1986"})
+create(red_black_white20:Work{work_id:"214",type:"work",work_name:"Red Black White 20" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 20, composite materials, 1986"})
+create(red_black_white25:Work{work_id:"215",type:"work",work_name:"Red Black White 25" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 25, composite materials, 1986"})
+create(red_black_white27:Work{work_id:"216",type:"work",work_name:"Red Black White 27" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 27, composite materials, 1986"})
+create(red_black_white28:Work{work_id:"217",type:"work",work_name:"Red Black White 28" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 28, composite materials, 1986"})
+create(red_black_white30:Work{work_id:"218",type:"work",work_name:"Red Black White 30" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 30, composite materials, 1986"})
+create(red_black_white31:Work{work_id:"219",type:"work",work_name:"Red Black White 31" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 31, composite materials, 1986"})
+create(red_black_white32:Work{work_id:"220",type:"work",work_name:"Red Black White 32" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 32, composite materials, 1986"})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
