@@ -109,7 +109,6 @@ create(scream_yearning_and_todays_calling:Work{work_id:"108",type:"work",work_na
 create(no_title:Work{work_id:"109",type:"work",work_name:"No Title",work_material:"propylene",year:"1985",artist_name:"Guan Ce", picture_name:"Guan Ce, No Title, propylene, 1985"})
 create(shadow_on_paper:Work{work_id:"110",type:"work",work_name:"Shadow on Paper",work_material:"propylene",year:"1985",artist_name:"Guan Ce", picture_name:"Guan Ce, Shadow on Paper, propylene, 1985"})
 create(indoor_landscape:Work{work_id:"111",type:"work",work_name:"Indoor Landscape",work_material:"propylene",year:"1985",artist_name:"Guan Ce", picture_name:"Guan Ce, Indoor Landscape, propylene, 1986"})
-create(indoor_landscape:Work{work_id:"112",type:"work",work_name:"Indoor Landscape",work_material:"propylene",year:"1985",artist_name:"Guan Ce", picture_name:"Guan Ce, Indoor Landscape, propylene, 1986"})
 create(thus_the_thing_was_finished3:Work{work_id:"113",type:"work",work_name:" Thus the Thing was finished 3",work_material:"oil on canvas",year:"1986",artist_name:"Cao Xiaodong", picture_name:"Cao Xiaodong, Thus the Thing was finished 3, oil on canvas, 1986"})
 create(thus_the_thing_was_finished4:Work{work_id:"114",type:"work",work_name:" Thus the Thing was finished 4",work_material:"oil on canvas",year:"1986",artist_name:"Cao Xiaodong", picture_name:"Cao Xiaodong, Thus the Thing was finished 4, oil on canvas, 1986"})
 create(thus_the_thing_was_finished5:Work{work_id:"115",type:"work",work_name:" Thus the Thing was finished 5",work_material:"oil on canvas",year:"1986",artist_name:"Cao Xiaodong", picture_name:"Cao Xiaodong, Thus the Thing was finished 5, oil on canvas, 1986"})
@@ -154,11 +153,9 @@ create(introspection:Work{work_id:"153",type:"work",work_name:"Introspection",wo
 create(decline_to_perspective:Work{work_id:"154",type:"work",work_name:"Decline to Perspective",work_material:"oil on canvas",year:"1985",artist_name:"Cao Xuelei", picture_name:"Cao Xuelei,Decline to Perspective, oil on canvas, 1985"})
 create(no_title_no7:Work{work_id:"155",type:"work",work_name:"No Title No.7",work_material:"oil on canvas",year:"1985",artist_name:"Wang Guojun", picture_name:"Wang Guojun,No Title No.7, oil on canvas, 1985"})
 create(no_title_no12:Work{work_id:"156",type:"work",work_name:"No Title No.12",work_material:"oil on canvas",year:"1985",artist_name:"Wang Guojun", picture_name:"Wang Guojun,No Title No.12, oil on canvas, 1985"})
-create(no_title_no12:Work{work_id:"157",type:"work",work_name:"No Title No.12",work_material:"oil on canvas",year:"1985",artist_name:"Wang Guojun", picture_name:"Wang Guojun,No Title No.12, oil on canvas, 1985"})
 create(brown_book_no1_draw_lots:Work{work_id:"158",type:"work",work_name:"Brown Book No.1 Draw Lots",work_material:"oil on canvas",year:"1985",artist_name:"Zhang Peili", picture_name:"Zhang Peili,Brown Book No.1 Draw Lots, performance art, 1985"})
-create(brown_book_no1_writing_name_and address:Work{work_id:"159",type:"work",work_name:"Brown Book No.1 Writing Name And Address",work_material:"oil on canvas",year:"1985",artist_name:"Zhang Peili", picture_name:"Zhang Peili,Brown Book No.1 Writing Name And Address, performance art, 1988"})
+create(brown_book_no1_writing_name_and_address:Work{work_id:"159",type:"work",work_name:"Brown Book No.1 Writing Name And Address",work_material:"oil on canvas",year:"1985",artist_name:"Zhang Peili", picture_name:"Zhang Peili,Brown Book No.1 Writing Name And Address, performance art, 1988"})
 create(brown_book_no1_post:Work{work_id:"160",type:"work",work_name:"Brown Book No.1 Post",work_material:"oil on canvas",year:"1985",artist_name:"Zhang Peili", picture_name:"Zhang Peili,Brown Book No.1 Post, performance art, 1988"})
-create(brown_book_no1_post:Work{work_id:"161",type:"work",work_name:"Brown Book No.1 Post",work_material:"oil on canvas",year:"1985",artist_name:"Zhang Peili", picture_name:"Zhang Peili,Brown Book No.1 Post, performance art, 1988"})
 create(work_no1:Work{work_id:"162",type:"work",work_name:"Work No.1",work_material:"oil on canvas",year:"1985",artist_name:"Yu Youhan", picture_name:"Yu Youhan,Work No.1, performance art, 1988"})
 create(work_no3:Work{work_id:"163",type:"work",work_name:"Work No.3",work_material:"oil on canvas",year:"1985",artist_name:"Feng Lianghong", picture_name:"Feng Lianghong,Work No.3, performance art, 1988"})
 create(no_title3:Work{work_id:"164",type:"work",work_name:"no_title",work_material:"oil on canvas",year:"1985",artist_name:"Feng Lianghong", picture_name:"Feng Lianghong,No Title, performance art, 1988"})
@@ -221,7 +218,12 @@ create(red_black_white32:Work{work_id:"220",type:"work",work_name:"Red Black Whi
 
 
 
-
+create(red_black_white33:Work{work_id:"221",type:"work",work_name:"Red Black White 33" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 33, composite materials, 1986"})
+create(red_black_white34:Work{work_id:"222",type:"work",work_name:"Red Black White 34" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 34, composite materials, 1986"})
+create(red_black_white36:Work{work_id:"223",type:"work",work_name:"Red Black White 36" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 36, composite materials, 1986"})
+create(red_black_white38:Work{work_id:"224",type:"work",work_name:"Red Black White 38" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 38, composite materials, 1986"})
+create(red_black_white42:Work{work_id:"220",type:"work",work_name:"Red Black White 42" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 42, composite materials, 1986"})
+create(deficit_today_no_water:Work{work_id:"226",type:"work",work_name:"Deficit Today no Water" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Deficit Today no Water, wood p, 1986"})
 
 
 
