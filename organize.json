@@ -174,11 +174,35 @@ create(eastern_festival_without_date:Work{work_id:"173",type:"work",work_name:"E
 create(chinese_qingming_festival_runs_its_course3:Work{work_id:"174",type:"work",work_name:"Chinese Qingming Festival Runs Its Course 3" ,work_material:"triple engraving",year:"1984",artist_name:"Yang hui", picture_name:"Yang hui,Chinese Qingming Festival Runs Its Course 3,triple engraving, 1984"})
 create(chinese_qingming_festival_runs_its_course1:Work{work_id:"175",type:"work",work_name:"Chinese Qingming Festival Runs Its Course 1" ,work_material:"engraving",year:"1984",artist_name:"Yang hui", picture_name:"Yang hui,Chinese Qingming Festival Runs Its Course 1,triple engraving, 1984"})
 create(farewell:Work{work_id:"176",type:"work",work_name:"Master" ,work_material:"triple engraving",year:"1985",artist_name:"Zhou Shilong", picture_name:"Zhou Shilong,Master,engraving, 1985"})
-create(sweet_potato:Work{work_id:"176",type:"work",work_name:"Sweet Potato" ,work_material:"engraving",year:"1985",artist_name:"Zhou Shilong", picture_name:"Zhou Shilong,Sweet Potato,engraving, 1985"})
-
-
-
-
+create(sweet_potato:Work{work_id:"177",type:"work",work_name:"Sweet Potato" ,work_material:"engraving",year:"1985",artist_name:"Zhou Shilong", picture_name:"Zhou Shilong,Sweet Potato,engraving, 1985"})
+create(be_series:Work{work_id:"178",type:"work",work_name:"Be Series" ,work_material:"engraving",year:"1986",artist_name:"Jian Jun", picture_name:"Jian Jun,Be Series,propylene, 1986"})
+create(mask_no2:Work{work_id:"179",type:"work",work_name:"Mask No.2" ,work_material:"engraving",year:"1986",artist_name:"Yu Sen", picture_name:"Yu Sen,Mask No.2,sculpture, 1986"})
+create(with_portrait:Work{work_id:"180",type:"work",work_name:"With Portrait..." ,work_material:"engraving",year:"1986",artist_name:"Zhang Jieming", picture_name:"Zhang Jieming,With Portrait...,composite materials, 1986"})
+create(with_portrait_part:Work{work_id:"181",type:"work",work_name:"With Portrait..." ,work_material:"engraving",year:"1986",artist_name:"Zhang Jieming", picture_name:"Zhang Jieming,With Portrait...Part,composite materials, 1986"})
+create(no2:Work{work_id:"182",type:"work",work_name:"No.2 " ,work_material:"oil on canvas",year:"1986",artist_name:"Zhang Jieming", picture_name:"Zhang Jieming,No.2 ,oil on canvas 1986"})
+create(primitive:Work{work_id:"183",type:"work",work_name:"Primitive " ,work_material:"oil on canvas",year:"1986",artist_name:"Li Shan", picture_name:"Li Shan,Primitive,oil on canvas, 1986"})
+create(no_title4:Work{work_id:"184",type:"work",work_name:"No Title " ,work_material:"oil on canvas",year:"1986",artist_name:"Li Shan", picture_name:"Li Shan,No Title,oil on canvas, 1986"})
+create(encounter:Work{work_id:"185",type:"work",work_name:"Encounter " ,work_material:"oil on canvas",year:"1986",artist_name:"Li Shan", picture_name:"Li Shan,Encounter,oil on canvas, 1986"})
+create(circle_series:Work{work_id:"186",type:"work",work_name:"Circle Series" ,work_material:"oil on canvas",year:"1986",artist_name:"Yu Youlian", picture_name:"Yu Youlian,Circle Series,oil on canvas, 1986"})
+create(recall_the_west:Work{work_id:"187",type:"work",work_name:"Recall the West" ,work_material:"oil on canvas",year:"1986",artist_name:"Zhao Yifu", picture_name:"Zhao Yifu,Recall the West,oil on canvas, 1986"})
+create(impression_of_fast_food_restaurant:Work{work_id:"188",type:"work",work_name:"Impression of Fast Food Restaurant" ,work_material:"oil on canvas",year:"1986",artist_name:"Hong Jijie", picture_name:"Hong Jijie,Impression of Fast Food Restaurant,oil on canvas, 1986"})
+create(portrait:Work{work_id:"189",type:"work",work_name:"Portrait" ,work_material:"oil on canvas",year:"1986",artist_name:"Chen Zhen", picture_name:"Chen Zhen,Portrait,oil on canvas, 1986"})
+create(no_title5:Work{work_id:"190",type:"work",work_name:"No Title" ,work_material:"oil on canvas",year:"1986",artist_name:"Chen Zhen", picture_name:"Chen Zhen,No Title,oil on canvas, 1986"})
+create(qi:Work{work_id:"191",type:"work",work_name:"Qi" ,year:"1984",artist_name:"Chen Zhen", picture_name:"Chen Zhen,Qi, 1986"})
+create(revelation_horse_and_sun_series1:Work{work_id:"192",type:"work",work_name:"Revelation-Horse and Sun Series 1" ,year:"1986",artist_name:"Ye Mu", picture_name:"Ye Mu,Revelation Horse And Sun Series, 1986"})
+create(revelation_horse_and_sun_series2:Work{work_id:"193",type:"work",work_name:"Revelation-Horse and Sun Series 2" ,year:"1986",artist_name:"Chen Zhen", picture_name:"Ye Mu,Revelation-Horse and Sun Series 2, 1986"})
+create(chair_and_people:Work{work_id:"194",type:"work",work_name:"Chair and People" ,year:"1985",artist_name:"Shen Fan", picture_name:"Shen Fan,Chair and People, 1985"})
+create(breeding:Work{work_id:"195",type:"work",work_name:"Chair and People" ,year:"1985",artist_name:"Zhou Changjiang", picture_name:"Zhou Changjiang,Breeding, 1985"})
+create(yin_and_yang_day_and_night_being_equally_separated:Work{work_id:"196",type:"work",work_name:"Yin and Yang Day and Night Being Equally Separated" ,year:"1985",artist_name:"Mo Tuo", picture_name:"Mo Tuo,Yin and Yang Day and Night Being Equally Separated, 1985"})
+create(owl:Work{work_id:"197",type:"work",work_name:"Owl" ,year:"1985",artist_name:"Wang Hui", picture_name:"Wang Hui,Owl, 1985"})
+create(knee_capper:Work{work_id:"198",type:"work",work_name:"Knee-Capper" ,year:"1985",artist_name:"Zhou Peide", picture_name:"Zhou Peide,Knee-Capper, 1985"})
+create(no_title6:Work{work_id:"199",type:"work",work_name:"No Title" ,year:"1984",artist_name:"Song Haidong", picture_name:"Song Haidong,No Title, 1984"})
+create(creating_object:Work{work_id:"200",type:"work",work_name:"Creating Object" ,year:"1984",artist_name:"Xiao Xiaolan", picture_name:"Xiao Xiaolan,Creating Object, 1984"})
+create(between0_to_1:Work{work_id:"201",type:"work",work_name:"Between 0 to 1" ,year:"1985",artist_name:"Lei Min", picture_name:"Lei Min,Between 0 to 1, 1985"})
+create(no_title7:Work{work_id:"202",type:"work",work_name:"No Title" ,year:"1985",artist_name:"Xu Hong", picture_name:"Xu Hong,No Title, 1985"})
+create(no_title8:Work{work_id:"203",type:"work",work_name:"No Title" ,year:"1986",artist_name:"Sun Liang", picture_name:"Sun Liang,No Title, 1986"})
+create(flouting_wing:Work{work_id:"204",type:"work",work_name:"Flouting Wing" ,year:"1986",artist_name:"Sun Liang", picture_name:"Sun Liang,Flouting Wing, 1986"})
+create(strange_landscape:Work{work_id:"205",type:"work",work_name:"Strange Landscape" ,year:"1984",artist_name:"Yu Jiangang", picture_name:"Yu Jiangang,Strange Landscape, 1984"})
 
 
 

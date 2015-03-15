@@ -29,9 +29,9 @@ create(sea_level_86_page5:Document{document_id:"28",type:"document",document_top
 create(sea_level_86_page6:Document{document_id:"29",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 6"}
 create(sea_level_86_page7:Document{document_id:"30",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 7"}
 create(sea_level_86_page8:Document{document_id:"31",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 8"}
-create(sea_level_86_page8:Document{document_id:"32",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Concave – Convex Exhibition Post, 1986"}
-
-
+create(sea_level_86_page9:Document{document_id:"32",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Concave – Convex Exhibition Post, 1986"}
+create(qi1:Document{document_id:"33",type:"document",document_topic:"work",year:"1984",picture_name: "Chen Zhen, Qi Scene, 1986"}
+create(qi2:Document{document_id:"34",type:"document",document_topic:"work",year:"1984",picture_name: "Chen Zhen, Qi scene, 1986"}
 
 
 
