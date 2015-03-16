@@ -276,7 +276,7 @@ create(no_title11:Work{work_id:"275",type:"work",work_name:"No Title 2" ,work_ma
 create(self_portrait:Work{work_id:"276",type:"work",work_name:"Self Portrait" ,work_material:"oil on canva" ,year:"1985",artist_name:"Cai Guoqiang", picture_name:"Cai Guoqiang, No Title 1, oil on canvas, 1985"})
 create(no_title12:Work{work_id:"277",type:"work",work_name:"No Title 1" ,work_material:"gun powder, oilon canvas" ,year:"1985",artist_name:"Huang Yongping", picture_name:"Huang Yongping, Self Portrait, gun powder, oil, canvas, 1985"})
 create(no_title13:Work{work_id:"278",type:"work",work_name:"No Title 2" ,work_material:"gun powder, oil on canvas" ,year:"1985",artist_name:"Huang Yongping", picture_name:"Huang Yongping, oil on canvas, gun powder, oil, canvas, 1985"})
-create(no_title13:Work{work_id:"278",type:"work",work_name:"No Title 2" ,work_material:"gun powder, oil on canvas" ,year:"1985",artist_name:"Huang Yongping", picture_name:"Huang Yongping, oil on canvas, gun powder, oil, canvas, 1985"})
+create(no_title13:Work{work_id:"279",type:"work",work_name:"No Title 2" ,work_material:"gun powder, oil on canvas" ,year:"1985",artist_name:"Huang Yongping", picture_name:"Huang Yongping, oil on canvas, gun powder, oil, canvas, 1985"})
 
 
 
