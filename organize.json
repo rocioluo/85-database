@@ -266,15 +266,17 @@ create(dangerous_chessboard_leaves_the_earth:Work{work_id:"265",type:"work",work
 create(work1wu:Work{work_id:"266",type:"work",work_name:"Work 1" ,work_material:"sculpture" ,year:"1985",artist_name:"Wu Shaoxiang", picture_name:"Wu Shaoxiang, Work 1, sculpture, 1985"})
 create(work2wu:Work{work_id:"267",type:"work",work_name:"Work 2" ,work_material:"sculpture" ,year:"1985",artist_name:"Wu Shaoxiang", picture_name:"Wu Shaoxiang, Work 2, sculpture, 1985"})
 create(work3wu:Work{work_id:"268",type:"work",work_name:"Work 3" ,work_material:"sculpture" ,year:"1985",artist_name:"Wu Shaoxiang", picture_name:"Wu Shaoxiang, Work 3, sculpture, 1985"})
-create(big_wheel:Work{work_id:"265",type:"work",work_name:"Big Wheel" ,work_material:"installation" ,year:"1985",artist_name:"Xu Bing, Zhang Jun, Chen Qiang, Chen Jinrong", picture_name:"Xu Bing, Zhang Jun, Chen Qiang, Chen Jinrong, Big Wheel, installation, 1985"})
-
-
-
-
-
-
-
-
+create(big_wheel1:Work{work_id:"269",type:"work",work_name:"Big Wheel" ,work_material:"performance" ,year:"1985",artist_name:"Xu Bing, Zhang Jun, Chen Qiang, Chen Jinrong", picture_name:"Xu Bing, Zhang Jun, Chen Qiang, Chen Jinrong, Big Wheel, performance, 1985"})
+create(big_wheel2:Work{work_id:"270",type:"work",work_name:"Big Wheel" ,work_material:"performance" ,year:"1985",artist_name:"Xu Bing, Zhang Jun, Chen Qiang, Chen Jinrong", picture_name:"Xu Bing, Zhang Jun, Chen Qiang, Chen Jinrong, Big Wheel, performance, 1985"})
+create(wisdom_and_power:Work{work_id:"271",type:"work",work_name:"Wisdom and Power" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Liu Xiangdong", picture_name:"Liu Xiangdong, Wisdom and Power, oil on canvas, 1985"})
+create(philosophy_script:Work{work_id:"272",type:"work",work_name:"Philosophy Script" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Liu Xiangdong", picture_name:"Liu Xiangdong, Philosophy Script, oil on canvas, 1985"})
+create(new_culture_no5:Work{work_id:"273",type:"work",work_name:"Philosophy Script" ,work_material:"real thing" ,year:"1985",artist_name:"Liu Xiangdong", picture_name:"Liu Xiangdong, New Culture No.5, real thing, 1985"})
+create(no_title10:Work{work_id:"274",type:"work",work_name:"No Title 1" ,work_material:"oil on canva" ,year:"1985",artist_name:"Cai Guoqiang", picture_name:"Cai Guoqiang, No Title 1, oil on canvas, 1985"})
+create(no_title11:Work{work_id:"275",type:"work",work_name:"No Title 2" ,work_material:"oil on canva" ,year:"1985",artist_name:"Cai Guoqiang", picture_name:"Cai Guoqiang, No Title 2, oil on canvas, 1985"})
+create(self_portrait:Work{work_id:"276",type:"work",work_name:"Self Portrait" ,work_material:"oil on canva" ,year:"1985",artist_name:"Cai Guoqiang", picture_name:"Cai Guoqiang, No Title 1, oil on canvas, 1985"})
+create(no_title12:Work{work_id:"277",type:"work",work_name:"No Title 1" ,work_material:"gun powder, oilon canvas" ,year:"1985",artist_name:"Huang Yongping", picture_name:"Huang Yongping, Self Portrait, gun powder, oil, canvas, 1985"})
+create(no_title13:Work{work_id:"278",type:"work",work_name:"No Title 2" ,work_material:"gun powder, oil on canvas" ,year:"1985",artist_name:"Huang Yongping", picture_name:"Huang Yongping, oil on canvas, gun powder, oil, canvas, 1985"})
+create(no_title13:Work{work_id:"278",type:"work",work_name:"No Title 2" ,work_material:"gun powder, oil on canvas" ,year:"1985",artist_name:"Huang Yongping", picture_name:"Huang Yongping, oil on canvas, gun powder, oil, canvas, 1985"})
 
 
 
