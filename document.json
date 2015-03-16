@@ -32,8 +32,12 @@ create(sea_level_86_page8:Document{document_id:"31",type:"document",document_top
 create(sea_level_86_page9:Document{document_id:"32",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Concave – Convex Exhibition Post, 1986"}
 create(qi1:Document{document_id:"33",type:"document",document_topic:"work",year:"1984",picture_name: "Chen Zhen, Qi Scene, 1986"}
 create(qi2:Document{document_id:"34",type:"document",document_topic:"work",year:"1984",picture_name: "Chen Zhen, Qi scene, 1986"}
-
-
+create (huangyan_wangbaichang_talk:Document{document_id:"35",type:"document",year:"1987",picture_name:"Huang Yan and Wang Bichang at Chang Chun University, 1987"})
+create (new_concept_exhibition_post:Document{document_id:"36",type:"document",year:"1987",picture_name:"New Concept Exhibition Concept, 1987"})
+create (m_modern_art_exhibition_logo_shanghai_fujian_youth_art_exhibition_artists_picture:Document{document_id:"37",type:"document",year:"1985",picture_name:"M modern art Exhibition Logo Shanghai Fujian Youth Art Exhibition Artists Picture, 1985"})
+create (m_modern_art_exhibition_introduction1:Document{document_id:"38",type:"document",year:"1985",picture_name:"M modern art Exhibition Introduction 1, 1985"})
+create (m_modern_art_exhibition_introduction2:Document{document_id:"38",type:"document",year:"1985",picture_name:"M modern art Exhibition Introduction 2, 1985"})
+create (m_modern_art_exhibition_introduction2:Document{document_id:"38",type:"document",year:"1985",picture_name:"M modern art Exhibition Introduction 2, 1985"})
 
 
 

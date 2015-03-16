@@ -5,4 +5,18 @@ create (jiangsu_youth_art_week_large_modern_art_exhibition:Exhibition{exhibition
 create (contemporary_painting_six_people_exhibition:Exhibition{exhibition_id:"5",exhibition_name:"Contemporary Painting Six People Exhibition"})
 create(first_shanghai_youth_artwork_exhibition:Exhibition{exhibition_id:"6",exhibition_name:"First Shanghai Youth Artwork Exhibition"})
 create(sea_level_86:Exhibition{exhibition_id:"7",exhibition_name:"Sea Level '86"})
-create(concave_convex_exhibition, 1986:Exhibition{exhibition_id:"8",exhibition_name:"Concave – Convex Exhibition Post, 1986"})
+create(concave_convex_exhibition:Exhibition{exhibition_id:"8",exhibition_name:"Concave – Convex Exhibition Post, 1986"})
+create(northern_way_exhibition:Exhibition{exhibition_id:"9",exhibition_name:"Northern Way Exhibition, 1986"})
+create(version_art_exhibition:Exhibition{exhibition_id:"10",exhibition_name:"Version Art Exhibition, 1988"})
+create(version_space_exhibition:Exhibition{exhibition_id:"11",exhibition_name:"Version Space Exhibition, 1988"})
+create(new_concept_exhibition:Exhibition{exhibition_id:"12",exhibition_name:"New Concept Exhibition, 1988"})
+create(m_modern_art_exhibition:Exhibition{exhibition_id:"13",exhibition_name:"M Modern Art Exhibition, 1985"})
+create(shanghai_fujian_youth_art_exhibition:Exhibition{exhibition_id:"14",exhibition_name:"Shanghai Fujian Youth Art Exhibition, 1985"})
+
+
+
+
+
+
+
+
