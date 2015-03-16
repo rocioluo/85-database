@@ -252,18 +252,21 @@ create(taiji:Work{work_id:"251",type:"work",work_name:"Tai Ji" ,work_material:"i
 create(zoo:Work{work_id:"252",type:"work",work_name:"Zoo" ,work_material:"oil on canvas" ,year:"1982",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Zoo, oil on canvas, 1982"})
 create(history_of_civilization:Work{work_id:"253",type:"work",work_name:"History of Civilization" ,work_material:"oil on canvas" ,year:"1983",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Zoo, oil on canvas, 1983"})
 create(silence:Work{work_id:"254",type:"work",work_name:"Silence" ,work_material:"oil on canvas" ,year:"1983",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Silence, oil on canvas, 1983"})
-create(landscape4:Work{work_id:"255",type:"work",work_name:"Landscape" ,work_material:"oil on canvas" ,year:"1983",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Landscape, oil on canvas, 1983"})
-create(dun_huang:Work{work_id:"256",type:"work",work_name:"Dun Huang" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Dun Huang, ink, 1985"})
-create(shi_ping:Work{work_id:"257",type:"work",work_name:"Shi Ping" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Shi Ping, ink, 1985"})
-create(structure_of_calligraphy_and_seal:Work{work_id:"258",type:"work",work_name:"Structure of Calligraphy and Seal" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Structure of Calligraphy and Seal, ink, 1985"})
-create(portrait_as_body:Work{work_id:"259",type:"work",work_name:"Portait As Body" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Portait As Body, ink, 1985"})
-create(object1:Work{work_id:"260",type:"work",work_name:"Object" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Object , ink, 1985"})
-create(object1:Work{work_id:"261",type:"work",work_name:"Object" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Object , ink, 1985"})
-
-
-
-
-
+create(landscape4:Work{work_id:"255",type:"work",work_name:"Landscape" ,work_material:"oil on canvas and othters" ,year:"1983",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Landscape, oil on canvas and others, 1983"})
+create(dun_huang:Work{work_id:"256",type:"work",work_name:"Dun Huang" ,work_material:"ink" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Dun Huang, ink, 1985"})
+create(shi_ping:Work{work_id:"257",type:"work",work_name:"Shi Ping" ,work_material:"ink" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Shi Ping, ink, 1985"})
+create(structure_of_calligraphy_and_seal:Work{work_id:"258",type:"work",work_name:"Structure of Calligraphy and Seal" ,work_material:"ink" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Structure of Calligraphy and Seal, ink, 1985"})
+create(sky_and_ocean:Work{work_id:"259",type:"work",work_name:"Sky and Ocean" ,work_material:"ink" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Sky and Ocean, ink, 1985"})
+create(portrait_as_body:Work{work_id:"260",type:"work",work_name:"Portait As Body" ,work_material:"ink" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Portait As Body, ink, 1985"})
+create(object1:Work{work_id:"261",type:"work",work_name:"Object" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Object , oil on canvas, 1985"})
+create(taiji2:Work{work_id:"262",type:"work",work_name:"Tai Ji" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Tai Ji, oil on canvas, 1985"})
+create(martyrdom:Work{work_id:"263",type:"work",work_name:"Martyrdom" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Martyrdom, oil on canvas, 1985"})
+create(no_title9:Work{work_id:"264",type:"work",work_name:"No Title" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, No Title, oil on canvas, 1985"})
+create(dangerous_chessboard_leaves_the_earth:Work{work_id:"265",type:"work",work_name:"Dangerous Chessboard  Leaves The Earth" ,work_material:"installation" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Dangerous Chessboard  Leaves The Earth, installation, 1985"})
+create(work1wu:Work{work_id:"266",type:"work",work_name:"Work 1" ,work_material:"sculpture" ,year:"1985",artist_name:"Wu Shaoxiang", picture_name:"Wu Shaoxiang, Work 1, sculpture, 1985"})
+create(work2wu:Work{work_id:"267",type:"work",work_name:"Work 2" ,work_material:"sculpture" ,year:"1985",artist_name:"Wu Shaoxiang", picture_name:"Wu Shaoxiang, Work 2, sculpture, 1985"})
+create(work3wu:Work{work_id:"268",type:"work",work_name:"Work 3" ,work_material:"sculpture" ,year:"1985",artist_name:"Wu Shaoxiang", picture_name:"Wu Shaoxiang, Work 3, sculpture, 1985"})
+create(big_wheel:Work{work_id:"265",type:"work",work_name:"Big Wheel" ,work_material:"installation" ,year:"1985",artist_name:"Xu Bing, Zhang Jun, Chen Qiang, Chen Jinrong", picture_name:"Xu Bing, Zhang Jun, Chen Qiang, Chen Jinrong, Big Wheel, installation, 1985"})
 
 
 
