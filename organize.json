@@ -223,28 +223,42 @@ create(red_black_white34:Work{work_id:"222",type:"work",work_name:"Red Black Whi
 create(red_black_white36:Work{work_id:"223",type:"work",work_name:"Red Black White 36" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 36, composite materials, 1986"})
 create(red_black_white38:Work{work_id:"224",type:"work",work_name:"Red Black White 38" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 38, composite materials, 1986"})
 create(red_black_white42:Work{work_id:"220",type:"work",work_name:"Red Black White 42" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Black White 42, composite materials, 1986"})
-create(deficit_today_no_water:Work{work_id:"226",type:"work",work_name:"Deficit Today no Water" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Deficit Today no Water, wood p, 1986"})
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+create(deficit_today_no_water:Work{work_id:"226",type:"work",work_name:"Deficit Today no Water" ,work_material:"composite materials" ,year:"1986",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Deficit Today no Water, wood painting, 1986"})
+create(deficit1:Work{work_id:"227",type:"work",work_name:"Deficit" ,work_material:"wood painting xuan paper" ,year:"1987",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Deficit, wood painting xuan paper, 1987"})
+create(deficit2:Work{work_id:"228",type:"work",work_name:"Deficit" ,work_material:"wood painting xuan paper" ,year:"1987",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Deficit, wood painting xuan paper, 1987"})
+create(abstract1:Work{work_id:"229",type:"work",work_name:"Abstract 1" ,work_material:"composite materials" ,year:"1987",artist_name:"Wu Shanzhuan,Ni Hai Feng", picture_name:"Wu Shanzhuan,Abstract 1, composite materials, 1987"})
+create(red_seal3:Work{work_id:"230",type:"work",work_name:"Red Seal 3" ,work_material:"composite materials" ,year:"1987",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Seal 3, composite materials, 1987"})
+create(red_seal8:Work{work_id:"231",type:"work",work_name:"Red Seal 8" ,work_material:"composite materials" ,year:"1987",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Seal 8, composite materials, 1987"})
+create(red_seal9:Work{work_id:"232",type:"work",work_name:"Red Seal 9" ,work_material:"composite materials" ,year:"1987",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Seal 9, composite materials, 1987"})
+create(red_seal10:Work{work_id:"233",type:"work",work_name:"Red Seal 10" ,work_material:"composite materials" ,year:"1987",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Seal 10, composite materials, 1987"})
+create(red_seal14:Work{work_id:"234",type:"work",work_name:"Red Seal 14" ,work_material:"composite materials" ,year:"1987",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Seal 14, composite materials, 1987"})
+create(red_seal20:Work{work_id:"235",type:"work",work_name:"Red Seal 20" ,work_material:"composite materials" ,year:"1987",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Seal 20, composite materials, 1987"})
+create(red_seal25:Work{work_id:"236",type:"work",work_name:"Red Seal 25" ,work_material:"composite materials" ,year:"1987",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Seal 25, composite materials, 1987"})
+create(red_seal28:Work{work_id:"237",type:"work",work_name:"Red Seal 28" ,work_material:"composite materials" ,year:"1987",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Seal 28, composite materials, 1987"})
+create(red_seal30:Work{work_id:"238",type:"work",work_name:"Red Seal 30" ,work_material:"composite materials" ,year:"1987",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Seal 30, composite materials, 1987"})
+create(red_seal29:Work{work_id:"239",type:"work",work_name:"Red Seal 29" ,work_material:"composite materials" ,year:"1987",artist_name:"Wu Shanzhuan", picture_name:"Wu Shanzhuan,Red Seal 29, composite materials, 1987"})
+create(night:Work{work_id:"240",type:"work",work_name:"Night" ,work_material:"ink" ,year:"1981",artist_name:"Gu Wenda", picture_name:"Gu Wenda,Night, ink, 1981"})
+create(white_nights:Work{work_id:"241",type:"work",work_name:"White Nights" ,work_material:"ink" ,year:"1981",artist_name:"Gu Wenda", picture_name:"Gu Wenda,White Nights, ink, 1981"})
+create(birth:Work{work_id:"242",type:"work",work_name:"Birth" ,work_material:"ink" ,year:"1981",artist_name:"Gu Wenda", picture_name:"Gu Wenda,Birth, ink, 1981"})
+create(moon:Work{work_id:"243",type:"work",work_name:"Moon" ,work_material:"ink" ,year:"1982",artist_name:"Gu Wenda", picture_name:"Gu Wenda,Moon, ink, 1982"})
+create(the_moon_is_sleeping_on_earth:Work{work_id:"244",type:"work",work_name:"The Moon Is Sleeping on Earth" ,work_material:"ink" ,year:"1982",artist_name:"Gu Wenda", picture_name:"Gu Wenda,The Moon Is Sleeping on Earth, ink, 1982"})
+create(world_ups_and_downs:Work{work_id:"245",type:"work",work_name:"World Ups and Downs" ,work_material:"ink" ,year:"1982",artist_name:"Gu Wenda", picture_name:"Gu Wenda,World Ups and Downs, ink, 1982"})
+create(birth_part:Work{work_id:"246",type:"work",work_name:"Birth Part" ,work_material:"ink" ,year:"1982",artist_name:"Gu Wenda", picture_name:"Gu Wenda,Birth Part, ink, 1982"})
+create(three_sphinxs_avatar:Work{work_id:"247",type:"work",work_name:"Three Sphinx's Avatar" ,work_material:"ink" ,year:"1982",artist_name:"Gu Wenda", picture_name:"Gu Wenda,Three Sphinx's Avatar, ink, 1982"})
+create(moon2:Work{work_id:"248",type:"work",work_name:"Moon" ,work_material:"oil on canvas" ,year:"1982",artist_name:"Gu Wenda", picture_name:"Gu Wenda,Moon, oil on canvas, 1982"})
+create(religion_and_science:Work{work_id:"249",type:"work",work_name:"Religion and Science" ,work_material:"composite material" ,year:"1982",artist_name:"Gu Wenda", picture_name:"Gu Wenda,Religion and Science, composite materials, 1982"})
+create(body:Work{work_id:"250",type:"work",work_name:"Body" ,work_material:"oil on canvas" ,year:"1982",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Body, oil on canvas, 1982"})
+create(taiji:Work{work_id:"251",type:"work",work_name:"Tai Ji" ,work_material:"ink" ,year:"1982",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Tai Ji, ink, 1982"})
+create(zoo:Work{work_id:"252",type:"work",work_name:"Zoo" ,work_material:"oil on canvas" ,year:"1982",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Zoo, oil on canvas, 1982"})
+create(history_of_civilization:Work{work_id:"253",type:"work",work_name:"History of Civilization" ,work_material:"oil on canvas" ,year:"1983",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Zoo, oil on canvas, 1983"})
+create(silence:Work{work_id:"254",type:"work",work_name:"Silence" ,work_material:"oil on canvas" ,year:"1983",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Silence, oil on canvas, 1983"})
+create(landscape4:Work{work_id:"255",type:"work",work_name:"Landscape" ,work_material:"oil on canvas" ,year:"1983",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Landscape, oil on canvas, 1983"})
+create(dun_huang:Work{work_id:"256",type:"work",work_name:"Dun Huang" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Dun Huang, ink, 1985"})
+create(shi_ping:Work{work_id:"257",type:"work",work_name:"Shi Ping" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Shi Ping, ink, 1985"})
+create(structure_of_calligraphy_and_seal:Work{work_id:"258",type:"work",work_name:"Structure of Calligraphy and Seal" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Structure of Calligraphy and Seal, ink, 1985"})
+create(portrait_as_body:Work{work_id:"259",type:"work",work_name:"Portait As Body" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Portait As Body, ink, 1985"})
+create(object1:Work{work_id:"260",type:"work",work_name:"Object" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Object , ink, 1985"})
+create(object1:Work{work_id:"261",type:"work",work_name:"Object" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Gu Wenda", picture_name:"Gu Wenda, Object , ink, 1985"})
 
 
 
