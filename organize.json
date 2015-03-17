@@ -340,7 +340,20 @@ create(love:Work{work_id:"339",type:"work",work_name:"Spirit On The Earth" ,work
 create(no_title17:Work{work_id:"340",type:"work",work_name:"No Title" ,work_material:"oil on canvas" ,year:"1985",artist_name:"Chen Qiang", picture_name:"Chen Qiang,No Title, oil on canvas, 1985"})
 create(childhood_memories:Work{work_id:"341",type:"work",work_name:"Childhood Memories" ,work_material:"oil on canvas" ,year:"1985", picture_name:"Childhood Memories, oil on canvas, 1985"})
 create(no_title18:Work{work_id:"342",type:"work",work_name:"No Title" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Li Baoying", picture_name:"Li Baoying,No Title, oil on canvas, 1985"})
-create(silent_in_distance:Work{work_id:"342",type:"work",work_name:"Silent In Distance" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Liu Changshun", picture_name:"Liu Changshun,Silent In Distance, oil on canvas, 1985"})
+create(silent_in_distance:Work{work_id:"343",type:"work",work_name:"Silent In Distance" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Liu Changshun", picture_name:"Liu Changshun,Silent In Distance, oil on canvas, 1986"})
+create(track_of_annual_ring:Work{work_id:"344",type:"work",work_name:"Track Of Annual Ring" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Zhang Song", picture_name:"Zhang Song,Track Of Annual Ring, oil on canvas, 1986"})
+create(no_title19:Work{work_id:"345",type:"work",work_name:"No Title" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Zhu Haikun", picture_name:"Zhu Haikun,No Title, oil on canvas, 1986"})
+create(north_east_chimney:Work{work_id:"346",type:"work",work_name:"North East Chimney" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Lin Chunyan", picture_name:"Lin Chunyan,North East Chimney, oil on canvas, 1986"})
+create(hexi_corridor:Work{work_id:"347",type:"work",work_name:"Hexi Corridor" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Zhang Yibo", picture_name:"Zhang Yibo,Hexi Corridor, oil on canvas, 1986"})
+create(natural_rule_does_not_change_by_the_reference:Work{work_id:"348",type:"work",work_name:"Natural Rule Will Not Change By The Reference" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Chen Dan", picture_name:"Chen Dan,Natural Rule Will Not Change By The Reference, oil on canvas, 1986"})
+create(literary_jargon:Work{work_id:"349",type:"work",work_name:"Literary Jargon" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Guan Wei", picture_name:"Guan Wei,Literary Jargon, oil on canvas, 1986"})
+create(professors_class:Work{work_id:"350",type:"work",work_name:"Professor's Class" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Zhao Hui", picture_name:"Zhao Hui,Professor's Class, oil on canvas, 1986"})
+create(bag_in_sand:Work{work_id:"351",type:"work",work_name:"Bag In Sand" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Chen Wenqi", picture_name:"Chen Wenqi,Bag In Sand, oil on canvas, 1986"})
+create(hetian_girl:Work{work_id:"352",type:"work",work_name:"Hetian Girl" ,work_material:"oil on canvas" ,year:"1987", artist_name:"Zhang Qun", picture_name:"Zhang Qun,Hetian Girl, oil on canvas, 1987"})
+create(serious_game_looking _at_bright_moon:Work{work_id:"352",type:"work",work_name:"Serious Games Look At Bright Moon" ,work_material:"oil on canvas" ,year:"1987", artist_name:"Zhang Qun", picture_name:"Wang , Girl, oil on canvas, 1987"})
+Create
+
+
 
 
 
