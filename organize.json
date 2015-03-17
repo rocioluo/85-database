@@ -276,7 +276,30 @@ create(no_title11:Work{work_id:"275",type:"work",work_name:"No Title 2" ,work_ma
 create(self_portrait:Work{work_id:"276",type:"work",work_name:"Self Portrait" ,work_material:"oil on canva" ,year:"1985",artist_name:"Cai Guoqiang", picture_name:"Cai Guoqiang, No Title 1, oil on canvas, 1985"})
 create(no_title12:Work{work_id:"277",type:"work",work_name:"No Title 1" ,work_material:"gun powder, oilon canvas" ,year:"1985",artist_name:"Huang Yongping", picture_name:"Huang Yongping, Self Portrait, gun powder, oil, canvas, 1985"})
 create(no_title13:Work{work_id:"278",type:"work",work_name:"No Title 2" ,work_material:"gun powder, oil on canvas" ,year:"1985",artist_name:"Huang Yongping", picture_name:"Huang Yongping, oil on canvas, gun powder, oil, canvas, 1985"})
-create(no_title13:Work{work_id:"279",type:"work",work_name:"No Title 2" ,work_material:"gun powder, oil on canvas" ,year:"1985",artist_name:"Huang Yongping", picture_name:"Huang Yongping, oil on canvas, gun powder, oil, canvas, 1985"})
+create(no_title13:Work{work_id:"279",type:"work",work_name:"No Title 2" ,work_material:"gun powder, oil on canvas" ,year:"1985",artist_name:"Huang Yongping", picture_name:"Huang Yongping, No Title 2, oil on canvas, , 1985"})
+create(red_volume:Work{work_id:"280",type:"work",work_name:"Red Volume" ,work_material:"oil on canvas" ,year:"1984",artist_name:"Mao Xuhui", picture_name:"Mao Xuhui, oil on canvas, Red Volume, oil, canvas, 1984"})
+create(moving_volume:Work{work_id:"281",type:"work",work_name:"Moving Volume" ,work_material:"oil on canvas" ,year:"1984",artist_name:"Mao Xuhui", picture_name:"Mao Xuhui, Moving Volume, oil on canvas, 1984"})
+create(swelling_volume:Work{work_id:"282",type:"work",work_name:"Swelling Volume" ,work_material:"oil on canvas" ,year:"1984",artist_name:"Mao Xuhui", picture_name:"Mao Xuhui,Swelling Volume, oil on canvas, 1984"})
+create(gui_shan_picture_village_dusk:Work{work_id:"283",type:"work",work_name:"Gui Shan Picture Village Dusk" ,work_material:"oil on canvas" ,year:"1984",artist_name:"Mao Xuhui", picture_name:"Mao Xuhui,Gui Shan Picture Village Dusk, oil on canvas, 1984"})
+create(gui_shan_picture_village_dusk:Work{work_id:"284",type:"work",work_name:"Gui Shan Picture Village Dusk" ,work_material:" oil on canvas" ,year:"1984",artist_name:"Mao Xuhui", picture_name:"Mao Xuhui,Gui Shan Picture Village Dusk, oil on canvas, 1984"})
+create(gui_shan_shepherdess:Work{work_id:"285",type:"work",work_name:"Gui Shan Shepherdess" ,work_material:"oil on canvas" ,year:"1984",artist_name:"Mao Xuhui", picture_name:"Mao Xuhui,Gui Shan Shepherdess, oil on canvas, 1984"})
+create(gui_shan_encounter_on_red_earth:Work{work_id:"286",type:"work",work_name:"Gui Shan Encounter On Red Earth" ,work_material:"oil on canvas" ,year:"1984",artist_name:"Mao Xuhui", picture_name:"Mao Xuhui,Gui Shan Encounter On Red Earth, oil on canvas, 1984"})
+create(portrait4:Work{work_id:"287",type:"work",work_name:"Portrait" ,work_material:"oil on canvas" ,year:"1984",artist_name:"Mao Xuhui", picture_name:"Mao Xuhui,Portrait, oil on canvas, 1984"})
+create(engraving_design:Work{work_id:"288",type:"work",work_name:"Engraving Design" ,work_material:"collage" ,year:"1985",artist_name:"Mao Xuhui", picture_name:"Mao Xuhui,Engraving Design, collage, 1985"})
+create(mother_of_the_red_earth2:Work{work_id:"289",type:"work",work_name:"Mother Of The Red Earth 2" ,work_material:"oil on canvas" ,year:"1986",artist_name:"Mao Xuhui", picture_name:"Mao Xuhui,Mother Of Red Earth 2, oil on canvas, 1986"})
+create(mother_of_the_red_earth_recall:Work{work_id:"290",type:"work",work_name:"Mother Of The Red Earth Recall" ,work_material:"oil on canvas" ,year:"1986",artist_name:"Mao Xuhui", picture_name:"Mao Xuhui,Mother Of Red Earth Recall, oil on canvas, 1986"})
+create(mother_of_the_red_earth_March:Work{work_id:"291",type:"work",work_name:"Mother Of The Red Earth Recall" ,work_material:"oil on canvas" ,year:"1986",artist_name:"Mao Xuhui", picture_name:"Mao Xuhui,Mother Of Red Earth Recall, oil on canvas, 1986"})
+create(body_in_the_room:Work{work_id:"292",type:"work",work_name:"Body In The Room" ,work_material:"oil on canvas" ,year:"1986",artist_name:"Mao Xuhui", picture_name:"Mao Xuhui,Body In The Room, oil on canvas, 1986"})
+create(noon1:Work{work_id:"293",type:"work",work_name:"Body In The Room" ,work_material:"oil on canvas" ,year:"1986",artist_name:"Mao Xuhui", picture_name:"Mao Xuhui,Body In The Room, oil on canvas, 1986"})
+
+
+
+
+
+
+
+
+
 
 
 

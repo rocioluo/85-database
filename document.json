@@ -40,12 +40,14 @@ create (m_modern_art_exhibition_introduction2:Document{document_id:"39",type:"do
 create (m_modern_art_exhibition_introduction2:Document{document_id:"40",type:"document",year:"1985",picture_name:"M modern art Exhibition Introduction 2, 1985"})
 create (shanghai_fujian_youth_art_exhibition_post:Document{document_id:"41",type:"document",year:"1985",picture_name:"Shanghai Fujian Youth Art Exhibition, 1985"})
 create (m_modern_art_exhibition_review_mass media:Document{document_id:"42",type:"document",year:"1985",picture_name:"M modern art Exhibition Review Mass Media, 1985"})
-
-
-
-
-
-
+create (new_figure_nanjing_exhibition_invitation_cover:Document{document_id:"43",type:"document",year:"1985",picture_name:"New Figure Nanjing Exhibition Invitation Cover, 1985"})
+create (new_figure_nanjing_exhibition_invitation_inner_page:Document{document_id:"44",type:"document",year:"1985",picture_name:"New Figure Nanjing Exhibition Invitation Inner Page, 1985"})
+create (second_new_figure_shanaghai_exhibition_conference_invitation_cover:Document{document_id:"45",type:"document",year:"1985",picture_name:"Second New Figure Shanghai Exhibition Conference Invitation Cover, 1985"})
+create (second_new_figure_shanaghai_exhibition_conference_invitation_inner_page:Document{document_id:"46",type:"document",year:"1985",picture_name:"Second New Figure Shanghai Exhibition Conference Invitation Inner Page, 1985"})
+create (second_new_figure_shanaghai_exhibition_conference_invitation_word:Document{document_id:"47",type:"document",year:"1985",picture_name:"Second New Figure Shanghai Exhibition Conference Invitation Word, 1985"})
+create (forth_new_figure_chongqing_iterate_academic_activity_booklet:Document{document_id:"48",type:"document",year:"1985",picture_name:"Forth New Figure Chongqing Iterate Academic Activity Booklet 1, 1986"})
+create (third_new_figure_yunnan_iterate_academic_activity_booklet:Document{document_id:"48",type:"document",year:"1985",picture_name:"third New Figure Yunnan Iterate Academic Activity Booklet 1, 1986"})
+create (third_new_figure_yunnan_iterate_academic_activity_booklet:Document{document_id:"48",type:"document",year:"1985",picture_name:"third New Figure Yunnan Iterate Academic Activity Booklet 2, 1986"})
 
 
 

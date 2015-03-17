@@ -29,7 +29,33 @@ create (version_art_exhibition_scene11:Action{action_id:"28",type:"scenario",exh
 create (version_art_exhibition_scene12:Action{action_id:"29",type:"scenario",exhibition_place:"Ji Lin ",year:"1988",picture_name:"Version Art Exhibition,scene 12, 1988"})
 create (version_art_exhibition_scene13:Action{action_id:"30",type:"scenario",exhibition_place:"Ji Lin ",year:"1988",picture_name:"Version Art Exhibition,scene 13, 1988"})
 create (version_art_exhibition_huangyan:Action{action_id:"31",type:"scenario",exhibition_place:"Ji Lin ",year:"1988",picture_name:"Version Art Exhibition,Huangyan leaded 2 blinds into the exhibition, 1988"})
-create (version_space_exhibition:Action{action_id:"32",type:"scenario",exhibition_place:"Ji Lin ",year:"1988",picture_name:"Version Art Exhibition,Version Space Exhibition, 1988"})
+create (version_space_exhibition_scene1:Action{action_id:"32",type:"scenario",year:"1987",picture_name:"Version Space Exhibition,Scene 1, 1987"})
+create (version_space_exhibition_scene2:Action{action_id:"33",type:"scenario",year:"1987",picture_name:"Version Space Exhibition,Scene 2, 1987"})
+create (version_space_exhibition_scene3:Action{action_id:"34",type:"scenario",year:"1987",picture_name:"Version Space Exhibition,Scene 3, 1987"})
+create (new_figure_shanghai_exhibition_member_photo:Action{action_id:"35",type:"photo",year:"1985",picture_name:"New Figure Members Photo at Shanghai Jinan Culture Center, From Right To Left: Hou Wenyi, Xu Kan, Mao Xuhui, Pan Dehai,1985"})
+create (new_figure_shanghai_exhibition_scene1:Action{action_id:"34",type:"scenario",year:"1987",picture_name:"New Figure Shanghai Exhibition scene,Mao Xuhui And Liu Tiejun are in front of Mao's work, 1985"})
+create (new_figure_shanghai_exhibition_scene2:Action{action_id:"37",type:"scenario",year:"1987",picture_name:"New Figure Shanghai Exhibition scene,Mao Xuhui is in front of Hou Wenyi's work, 1985"})
+create (new_figure_shanghai_exhibition_scene3:Action{action_id:"38",type:"scenario",year:"1985",picture_name:"New Figure Shanghai Exhibition scene, Mao Xiaogang's work, 1985"})
+create (new_figure_shanghai_exhibition_scene4:Action{action_id:"39",type:"scenario",year:"1985",picture_name:"New Figure Shanghai Exhibition scene, Zhang Long's work, 1985"})
+create (new_figure_shanghai_exhibition_scene5:Action{action_id:"40",type:"scenario",year:"1985",picture_name:"New Figure Shanghai Exhibition scene, Pan Dehai's work, 1985"})
+create (new_figure_nanjing_exhibition_scene6:Action{action_id:"41",type:"scenario",year:"1985",picture_name:"New Figure Shanghai Exhibition Scene, at the gate of Nanjing Exhibition, 1985"})
+create (new_figure_nanjing_exhibition_scene7:Action{action_id:"42",type:"scenario",year:"1985",picture_name:"New Figure Shanghai Exhibition Scene 1, 1985"})
+create (new_figure_nanjing_exhibition_scene7:Action{action_id:"43",type:"scenario",year:"1985",picture_name:"New Figure Shanghai Exhibition Scene 2, 1985"})
+create (jiangsu_tv_is_recording_new_figure_nanjing_exhibition:Action{action_id:"44",type:"scenario",year:"1985",picture_name:"Jiangsu TV is Recording New Figure Nanjing Exhibition, 1985"})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
