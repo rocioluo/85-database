@@ -42,9 +42,12 @@ create (new_figure_nanjing_exhibition_scene6:Action{action_id:"41",type:"scenari
 create (new_figure_nanjing_exhibition_scene7:Action{action_id:"42",type:"scenario",year:"1985",picture_name:"New Figure Shanghai Exhibition Scene 1, 1985"})
 create (new_figure_nanjing_exhibition_scene7:Action{action_id:"43",type:"scenario",year:"1985",picture_name:"New Figure Shanghai Exhibition Scene 2, 1985"})
 create (jiangsu_tv_is_recording_new_figure_nanjing_exhibition:Action{action_id:"44",type:"scenario",year:"1985",picture_name:"Jiangsu TV is Recording New Figure Nanjing Exhibition, 1985"})
-
-
-
+create (xu_zhou_modern_art_exhibition_member_photo1:Action{action_id:"45",type:"photo",year:"1986",picture_name:"Xu Zhou Modern Art Exhibition, From Left To Right: Lv Huizhou, Li Xin, Xu Yongsheng, Yuan Xianmin, Qin Jian,Shi Dihua,Wu Pingren, Li Yafei, Yang Yinsheng, Qu Yan, Wen Jianqing, Wang Lu,1986"})
+create (xu_zhou_modern_art_exhibition_member_photo2:Action{action_id:"46",type:"photo",year:"1986",picture_name:"Xu Zhou Modern Art Exhibition, From Left To Right: Li Xin,Shi Dihua,Gao Tianmin, Zhou Jingxin, Wang Lu, Qu Yan, Wen Jianqing, Liu Zhichao, Li Xiaoshan, Yuan Xianmin,1986"})
+create (xu_zhou_modern_art_exhibition_member_photo3:Action{action_id:"47",type:"photo",year:"1986",picture_name:"Xu Zhou Modern Art Exhibition, From Left To Right: Ma Bosheng,Qu Yan, Yang Yingsheng, Wu Pingren,1986"})
+create (xu_zhou_modern_art_exhibition_member_photo4:Action{action_id:"48",type:"photo",year:"1986",picture_name:"Xu Zhou Modern Art Exhibition, From Left To Right: Ma Bosheng,Xu Yongsheng, Wu Pingren, Yang Yingsheng, Gao Tianmin, Qu Yan, Shi Dihua,1986"})
+create (xu_zhou_modern_art_exhibition_member_scene1:Action{action_id:"49",type:"scenario",year:"1986",picture_name:"Xu Zhou Modern Art Exhibition Scene,1986"})
+create (xu_zhou_modern_art_exhibition_member_scene2:Action{action_id:"50",type:"scenario",year:"1986",picture_name:"Xu Zhou Modern Art Exhibition Scene, Yang Yingsheng is receiving interviews,1986"})
 
 
 

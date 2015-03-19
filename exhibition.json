@@ -14,8 +14,8 @@ create(m_modern_art_exhibition:Exhibition{exhibition_id:"13",exhibition_name:"M 
 create(shanghai_fujian_youth_art_exhibition:Exhibition{exhibition_id:"14",exhibition_name:"Shanghai Fujian Youth Art Exhibition, 1985"})
 create(new_figure_shanghai_conference:Exhibition{exhibition_id:"15",exhibition_name:"New Figure Shanghai Conference, 1985"})
 create(new_figure_nanjing_conference:Exhibition{exhibition_id:"16",exhibition_name:"New Figure Nanjing Conference, 1985"})
-create(new_figure_yunnan_conference:Exhibition{exhibition_id:"16",exhibition_name:"New Figure Yunnan Conference, 1986"})
-create(new_figure_chongqing_conference:Exhibition{exhibition_id:"16",exhibition_name:"New Figure Chongqing Conference, 1986"})
+create(new_figure_yunnan_conference:Exhibition{exhibition_id:"17",exhibition_name:"New Figure Yunnan Conference, 1986"})
+create(new_figure_chongqing_conference:Exhibition{exhibition_id:"18",exhibition_name:"New Figure Chongqing Conference, 1986"})
 
 
 
