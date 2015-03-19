@@ -363,7 +363,32 @@ create(suns_thinks4:Work{work_id:"362",type:"work",work_name:"Sun's Thinks 4" ,w
 create(floating_world:Work{work_id:"363",type:"work",work_name:"Floating World" ,work_material:"ink" ,year:"1985", artist_name:"Yan Binghui", picture_name:"Yan Binghui, Floating World, ink, 1985"})
 create(flying:Work{work_id:"364",type:"work",work_name:"Flying" ,work_material:"ink" ,year:"1985", artist_name:"Yan Binghui", picture_name:"Yan Binghui, Flying, ink, 1985"})
 create(the_last_radiance_of_the_setting_sun:Work{work_id:"365",type:"work",work_name:"The Last Radiance Of The Setting Sun" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Lv Peihuan", picture_name:"Lv Peihuan, The Last Radiance Of The Setting Sun, oil on canvas, 1985"})
-create(debate:Work{work_id:"365",type:"work",work_name:"Debate" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Lv Peihuan", picture_name:"Lv Peihuan, Flying, oil on canvas, 1985"})
+create(debate:Work{work_id:"366",type:"work",work_name:"Debate" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Lv Peihuan", picture_name:"Lv Peihuan, Flying, oil on canvas, 1985"})
+create(chaos:Work{work_id:"367",type:"work",work_name:"Chaos" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Fan Bo", picture_name:"Fan Bo, Flying, oil on canvas, 1985"})
+create(bite:Work{work_id:"368",type:"work",work_name:"Bite" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Fan Bo", picture_name:"Fan Bo, Bite, oil on canvas, 1985"})
+create(mountain:Work{work_id:"369",type:"work",work_name:"Mountain" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Fu Zenan", picture_name:"Fu Zenan, Mountain, oil on canvas, 1985"})
+create(struggle_for_existence:Work{work_id:"370",type:"work",work_name:"Struggle For Existence" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Fu Zenan", picture_name:"Fu Zenan, Struggle For Existence, oil on canvas, 1985"})
+create(between_the_heaven_and_earth1:Work{work_id:"370",type:"work",work_name:"Between The Heaven And Earth 1" ,work_material:"charcoal sketch" ,year:"1985", artist_name:"Fu Zenan", picture_name:"Fu Zenan, Between The Heaven And Earth 1, charcoal sketch, 1985"})
+create(between_the_heaven_and_earth2:Work{work_id:"370",type:"work",work_name:"Between The Heaven And Earth 2" ,work_material:"charcoal sketch" ,year:"1985", artist_name:"Fu Zenan", picture_name:"Fu Zenan, Between The Heaven And Earth 2, charcoal sketch, 1985"})
+create(between_the_heaven_and_earth_oil_on_canvas1:Work{work_id:"370",type:"work",work_name:"Between The Heaven And Earth 1" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Fu Zenan", picture_name:"Fu Zenan, Between The Heaven And Earth 1, oil on canvas, 1985"})
+create(sketch_no5:Work{work_id:"374",type:"work",work_name:"Sketch No.5" ,work_material:"sketch" ,year:"1985", artist_name:"Fu Wuze", picture_name:"Fu Wuze, Sketch No.5, sketch, 1985"})
+create(people_holding_the_hips:Work{work_id:"375",type:"work",work_name:"People Holding The Hips" ,work_material:"gouache" ,year:"1985", artist_name:"Fu Wuze", picture_name:"Fu Wuze, People Holding The Hips, gouache, 1985"})
+create(organic_world:Work{work_id:"376",type:"work",work_name:"Organic World" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Shi Xiaole", picture_name:"Shi Xiaole, Organic World, oil on canvas,1985"})
+create(first_time_upright:Work{work_id:"377",type:"work",work_name:"First Time Upright" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Ma Baokang", picture_name:"Ma Baokang, First Time Upright, oil on canvas,1985"})
+create(rape_the_daughters_of_leucippus:Work{work_id:"378",type:"work",work_name:"Rape The Daughters Of Leucippus" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Ma Xiaoxing", picture_name:"Ma Xiaoxing, Rape The Daughters Of Leucippus, oil on canvas,1985"})
+create(variants_of_rape_the_daughters_of_leucippus:Work{work_id:"379",type:"work",work_name:"Variants Of Rape The Daughters Of Leucippus" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Ma Xiaoxing", picture_name:"Ma Xiaoxing,Variants Of Rape The Daughters Of Leucippus, oil on canvas,1985"})
+create(:Work{work_id:"380",type:"work",work_name:"Variants Of Rape The Daughters Of Leucippus" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Ma Xiaoxing", picture_name:"Ma Xiaoxing,Variants Of Rape The Daughters Of Leucippus, composite materials,1985"})
+
+
+
+
+
+
+
+
+
+
+
 
 
 
