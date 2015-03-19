@@ -48,6 +48,6 @@ create (second_new_figure_shanaghai_exhibition_conference_invitation_word:Docume
 create (forth_new_figure_chongqing_iterate_academic_activity_booklet:Document{document_id:"48",type:"document",year:"1985",picture_name:"Forth New Figure Chongqing Iterate Academic Activity Booklet 1, 1986"})
 create (third_new_figure_yunnan_iterate_academic_activity_booklet:Document{document_id:"48",type:"document",year:"1985",picture_name:"third New Figure Yunnan Iterate Academic Activity Booklet 1, 1986"})
 create (third_new_figure_yunnan_iterate_academic_activity_booklet:Document{document_id:"48",type:"document",year:"1985",picture_name:"third New Figure Yunnan Iterate Academic Activity Booklet 2, 1986"})
-
-
+create (calling_society_member_introduction:Document{document_id:"51",type:"document",year:"1985",picture_name:"Calling Society Member Introduction, 1985"})
+create (calling_society_third_exhibition_post:Document{document_id:"52",type:"document",year:"1985",picture_name:"Calling Society Third Exhibition Post, 1985"})
 
