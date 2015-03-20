@@ -439,7 +439,19 @@ create(body:Work{work_id:"438",type:"work",work_name:"Body" ,work_material:"oil 
 create(work_no1_xie:Work{work_id:"439",type:"work",work_name:"Body" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Xie Yuxi", picture_name:"Xie Yuxi,Work No.1,oil on canvas,1985"})
 create(shadow:Work{work_id:"440",type:"work",work_name:"Shadow" ,work_material:"Engraving" ,year:"1985", artist_name:"Xu Jing", picture_name:"Xu Jing,Shadow,engraving,1985"})
 create(thorns:Work{work_id:"441",type:"work",work_name:"Thorns" ,work_material:"Engraving" ,year:"1985", artist_name:"Ye Ling", picture_name:"Ye Ling,Thorns,engraving,1985"})
-create(caprice_no1:Work{work_id:"442",type:"work",work_name:"Caprice No.1" ,work_material:"Engraving" ,year:"1985", artist_name:"Li Yunying", picture_name:"Li Yunying,Caprice No.1,engraving,1985"})
+create(caprice_no1:Work{work_id:"442",type:"work",work_name:"Caprice No.1" ,work_material:"engraving" ,year:"1985", artist_name:"Li Yunying", picture_name:"Li Yunying,Caprice No.1,engraving,1985"})
+create(sleeping_household_register_salesman:Work{work_id:"443",type:"work",work_name:"Sleeping Household Register Salesman" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Cao Yong", picture_name:"Cao Yong,Sleeping Household Register Salesman,oil on canvas,1985"})
+create(mom_and_son:Work{work_id:"444",type:"work",work_name:"Mon And Son" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Cao Yong", picture_name:"Cao Yong,Mon And Son,oil on canvas,1985"})
+create(:Work{work_id:"444",type:"work",work_name:"Mon And Son" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Cao Yong", picture_name:"Cao Yong,Mon And Son,oil on canvas,1985"})
+
+
+
+
+
+
+
+
+
 
 
 

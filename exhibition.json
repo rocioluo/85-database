@@ -16,8 +16,8 @@ create(new_figure_shanghai_conference:Exhibition{exhibition_id:"15",exhibition_n
 create(new_figure_nanjing_conference:Exhibition{exhibition_id:"16",exhibition_name:"New Figure Nanjing Conference, 1985"})
 create(new_figure_yunnan_conference:Exhibition{exhibition_id:"17",exhibition_name:"New Figure Yunnan Conference, 1986"})
 create(new_figure_chongqing_conference:Exhibition{exhibition_id:"18",exhibition_name:"New Figure Chongqing Conference, 1986"})
-
-
+create(xu_zhou_modern_art_exhibition:Exhibition{exhibition_id:"19",exhibition_name:"Xu Zhou Modern Art Exhibition, 1986"})
+create(explore_discover_performance_five_youth_art_exhibition:Exhibition{exhibition_id:"20",exhibition_name:"Explore Discover Performance Five Youth Art Exhibition, 1984"})
 
 
 
