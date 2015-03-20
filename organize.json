@@ -461,7 +461,39 @@ create(self:Work{work_id:"460",type:"work",work_name:"Self" ,work_material:"engr
 create(fossil:Work{work_id:"461",type:"work",work_name:"Fossil" ,work_material:"engraving" ,year:"1986", artist_name:"Shi Dan", picture_name:"Shi Dan, Fossil,engraving,1986"})
 create(red_cloud:Work{work_id:"462",type:"work",work_name:"Red Cloud" ,work_material:"engraving" ,year:"1986", artist_name:"Hu Shaquan", picture_name:"Hu Shaquan, Red Cloud,engraving,1986"})
 create(recall_of_destiny:Work{work_id:"463",type:"work",work_name:"Recall Of Destiny" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Wen Dusu", picture_name:"Wen Dusu, Recall Of Destiny,oil on canvas,1986"})
-create(wulantuoya:Work{work_id:"464",type:"work",work_name:"Wu Lan Tuo Ya" ,work_material:"engraving" ,year:"1986", artist_name:"Zhou Yu", picture_name:"Zhou Yu, Wu Lan Tuo Ya,oil on canvas,1986"})
+create(wulantuoya:Work{work_id:"464",type:"work",work_name:"Wu Lan Tuo Ya" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Zhou Yu", picture_name:"Zhou Yu, Wu Lan Tuo Ya,oil on canvas,1986"})
+create(northern_tibet_prairie:Work{work_id:"465",type:"work",work_name:"Northern Tibet Prairie" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Chen Xingzhu", picture_name:"Chen Xingzhu, Northern Tibet Prairie,oil on canvas,1986"})
+create(prairie:Work{work_id:"466",type:"work",work_name:" Prairie" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Chen Xingzhu", picture_name:"Chen Xingzhu, Prairie,oil on canvas,1986"})
+create(earnest_in_praying:Work{work_id:"467",type:"work",work_name:" Earnest In Praying" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Chen Xingzhu", picture_name:"Chen Xingzhu, Earnest In Praying,oil on canvas,1986"})
+create(lama_and_hawk:Work{work_id:"468",type:"work",work_name:"Lama And Hawk" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Chen Xingzhu", picture_name:"Chen Xingzhu, Lama And Hawk,oil on canvas,1986"})
+create(no_title23:Work{work_id:"469",type:"work",work_name:"No Title" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Li Yanping", picture_name:"Li Yanping, No Title,oil on canvas,1986"})
+create(no_title24:Work{work_id:"470",type:"work",work_name:"No Title" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Li Yanping", picture_name:"Li Yanping, No Title,oil on canvas,1986"})
+create(buddhas_footprint:Work{work_id:"471",type:"work",work_name:"Buddha's Footprint" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Li Yanping", picture_name:"Li Yanping, Buddha's Footprint,oil on canvas,1986"})
+create(design_for_tibet:Work{work_id:"472",type:"work",work_name:"Design For Tibet" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Li Yanping", picture_name:"Li Yanping, Design For Tibet,oil on canvas,1986"})
+create(symbol:Work{work_id:"473",type:"work",work_name:"Symbol" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Li Yanping", picture_name:"Li Yanping, Symbol,oil on canvas,1986"})
+create(design_for_tibet4:Work{work_id:"474",type:"work",work_name:"Design For Tibet4" ,work_material:"real object" ,year:"1986", artist_name:"Li Yanping", picture_name:"Li Yanping, Design For Tibet 4,real object,1986"})
+create(without_original_power:Work{work_id:"475",type:"work",work_name:"Without Original Power" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Li Yanping", picture_name:"Li Yanping, Design For Tibet,oil on canvas,1986"})
+create(black_earch:Work{work_id:"476",type:"work",work_name:"Black Earch" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Li Zhibao", picture_name:"Li Zhibao, Black Earth,oil on canvas,1986"})
+create(myth:Work{work_id:"477",type:"work",work_name:"Myth" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Li Zhibao", picture_name:"Li Zhibao, Myth,oil on canvas,1986"})
+create(polar_region:Work{work_id:"478",type:"work",work_name:"Polar Region" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Qi Yong", picture_name:"Qi Yong, Polar Region,oil on canvas,1986"})
+create(totem_no1:Work{work_id:"479",type:"work",work_name:"Totem" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Qi Yong", picture_name:"Qi Yong, Polar Region,oil on canvas,1986"})
+create(unmanned_area:Work{work_id:"480",type:"work",work_name:"Unmanned Area" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Yu Xiaodong", picture_name:"Yu Xiaodong, Unmanned Area,oil on canvas,1986"})
+create(no_title25:Work{work_id:"481",type:"work",work_name:"No Title" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Yu Xiaodong", picture_name:"Yu Xiaodong, No Title,oil on canvas,1986"})
+create(worlds_spring:Work{work_id:"482",type:"work",work_name:"World's Spring" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Zai Yaofei", picture_name:"Zai Yaofei, World's Spring,oil on canvas,1986"})
+create(ladder:Work{work_id:"483",type:"work",work_name:"Ladder" ,work_material:"propylene" ,year:"1986", artist_name:"Zai Yaofei", picture_name:"Zai Yaofei,Ladder,propylene,1986"})
+create(red:Work{work_id:"484",type:"work",work_name:"Red" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Zai Yaofei", picture_name:"Zai Yaofei,Red,oil on canvas,198"})
+create(white_dream:Work{work_id:"485",type:"work",work_name:"White Dream" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Zai Yaofei", picture_name:"Zai Yaofei,White Dream,oil on canvas,1985")
+create(ball_in_several_triangle:Work{work_id:"485",type:"work",work_name:"Ball In Several Triangle" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Dai Yuguang", picture_name:"Dai Yuguang,Ball In Several Triangle,oil on canvas,1985"})
+create(no_title26:Work{work_id:"487",type:"work",work_name:"No Title" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Huangfu Qiren", picture_name:"Huangfu Qiren,No Title ,oil on canvas,1985"})
+create(life_picture1:Work{work_id:"488",type:"work",work_name:"Life Picture 1" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Jian Chongmin", picture_name:"Jian Chongmin,Life Picture 1 ,oil on canvas,1985"})
+create(floating_cloud:Work{work_id:"489",type:"work",work_name:"Floating Cloud" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Jian Chongmin", picture_name:"Jian Chongmin,Floating Cloud ,oil on canvas,1985"})
+create(chaos_or_peace:Work{work_id:"490",type:"work",work_name:"Chaos Or Peace" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Luo Jiancheng", picture_name:"Luo Jiancheng,Chaos Or Peace,oil on canvas,1985"})
+create(chaos_or_peace:Work{work_id:"491",type:"work",work_name:"Holding The Fire In Midnight" ,work_material:"oil on canvas" ,year:"1985", artist_name:""Xu Dacheng, picture_name:"Xu Dacheng,Holding The Fire In Midnight,oil on canvas,1985"})
+
+
+
+
+
 
 
 
