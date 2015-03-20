@@ -442,23 +442,26 @@ create(thorns:Work{work_id:"441",type:"work",work_name:"Thorns" ,work_material:"
 create(caprice_no1:Work{work_id:"442",type:"work",work_name:"Caprice No.1" ,work_material:"engraving" ,year:"1985", artist_name:"Li Yunying", picture_name:"Li Yunying,Caprice No.1,engraving,1985"})
 create(sleeping_household_register_salesman:Work{work_id:"443",type:"work",work_name:"Sleeping Household Register Salesman" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Cao Yong", picture_name:"Cao Yong,Sleeping Household Register Salesman,oil on canvas,1985"})
 create(mom_and_son:Work{work_id:"444",type:"work",work_name:"Mon And Son" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Cao Yong", picture_name:"Cao Yong,Mon And Son,oil on canvas,1985"})
-create(:Work{work_id:"444",type:"work",work_name:"Mon And Son" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Cao Yong", picture_name:"Cao Yong,Mon And Son,oil on canvas,1985"})
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+create(bathing_woman_in_spring:Work{work_id:"445",type:"work",work_name:"Bathing Woman In Spring" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Cao Yong", picture_name:"Cao Yong,Bathing Woman In Spring,oil on canvas,1985"})
+create(venus_and_arhats:Work{work_id:"446",type:"work",work_name:"Venus And Arhats" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Cao Yong", picture_name:"Cao Yong,Venus And Arhats,oil on canvas,1985"})
+create(cosmos_life_noumenon:Work{work_id:"447",type:"work",work_name:"Cosmos Life Noumenon" ,work_material:"composite materials" ,year:"1985", artist_name:"Cao Yong", picture_name:"Cao Yong,Cosmos Life Noumenon,composite materials,1985"})
+create(some_animal1:Work{work_id:"448",type:"work",work_name:"Some Animal 1" ,work_material:"pottery" ,year:"1985", artist_name:"Yang Shufeng", picture_name:"Yang Shufeng,Some Animal 1,pottery,1985"})
+create(work1_yang:Work{work_id:"449",type:"work",work_name:"Work 1" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Yang Shufeng", picture_name:"Yang Shufeng,Work 1,oil on canvas,1985"})
+create(work2_yang:Work{work_id:"450",type:"work",work_name:"Work 2" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Yang Shufeng", picture_name:"Yang Shufeng,Work 2,oil on canvas,1985"})
+create(work3_yang:Work{work_id:"451",type:"work",work_name:"Work 3" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Yang Shufeng", picture_name:"Yang Shufeng,Work 3,oil on canvas,1985"})
+create(work4_yang:Work{work_id:"452",type:"work",work_name:"Work 4" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Yang Shufeng", picture_name:"Yang Shufeng,Work 4,oil on canvas,1985"})
+create(work5_yang:Work{work_id:"453",type:"work",work_name:"Work 5" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Yang Shufeng", picture_name:"Yang Shufeng,Work 5,oil on canvas,1985"})
+create(work6_yang:Work{work_id:"454",type:"work",work_name:"Work 6" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Yang Shufeng", picture_name:"Yang Shufeng,Work 6,oil on canvas,1985"})
+create(work7_yang:Work{work_id:"455",type:"work",work_name:"Work 7" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Yang Shufeng", picture_name:"Yang Shufeng,Work 7,oil on canvas,1985"})
+create(bees_are_looking_for_new_home:Work{work_id:"456",type:"work",work_name:"Bees Are Looking For New Home" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Liu Zhenggang", picture_name:"Liu Zhenggang,Bees Are Looking For New Home,oil on canvas,1985"})
+create(tenderness:Work{work_id:"457",type:"work",work_name:"Tenderness" ,work_material:"engraving" ,year:"1986", artist_name:"Huang Yulan", picture_name:"Huang Yulan,Tenderness,engraving,1986"})
+create(extend:Work{work_id:"457",type:"work",work_name:"Extend" ,work_material:"engraving" ,year:"1986", artist_name:"Huang Yulan", picture_name:"Huang Yulan,Extend,engraving,1986"})
+create(fuqiang:Work{work_id:"459",type:"work",work_name:"Engraving" ,work_material:"engraving" ,year:"1986", artist_name:"Fu Qiang", picture_name:"Fu Qiang, fuqiang ,engraving,1986"})
+create(self:Work{work_id:"460",type:"work",work_name:"Self" ,work_material:"engraving" ,year:"1986", artist_name:"Fu Qiang", picture_name:"Fu Qiang, Self ,engraving,1986"})
+create(fossil:Work{work_id:"461",type:"work",work_name:"Fossil" ,work_material:"engraving" ,year:"1986", artist_name:"Shi Dan", picture_name:"Shi Dan, Fossil,engraving,1986"})
+create(red_cloud:Work{work_id:"462",type:"work",work_name:"Red Cloud" ,work_material:"engraving" ,year:"1986", artist_name:"Hu Shaquan", picture_name:"Hu Shaquan, Red Cloud,engraving,1986"})
+create(recall_of_destiny:Work{work_id:"463",type:"work",work_name:"Recall Of Destiny" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Wen Dusu", picture_name:"Wen Dusu, Recall Of Destiny,oil on canvas,1986"})
+create(wulantuoya:Work{work_id:"464",type:"work",work_name:"Wu Lan Tuo Ya" ,work_material:"engraving" ,year:"1986", artist_name:"Zhou Yu", picture_name:"Zhou Yu, Wu Lan Tuo Ya,oil on canvas,1986"})
 
 
 
