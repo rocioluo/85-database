@@ -425,14 +425,21 @@ create(expand:Work{work_id:"424",type:"work",work_name:"Expand" ,work_material:"
 create(life_in_cosmos:Work{work_id:"425",type:"work",work_name:"Life In Cosmos" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Wang Chuan", picture_name:"Wang Chuan,Life In Cosmos,oil on canvas,1985"})
 create(night2:Work{work_id:"426",type:"work",work_name:"Night" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Wang Chuan", picture_name:"Wang Chuan,Night,oil on canvas,1985"})
 create(endless_time_and_space:Work{work_id:"427",type:"work",work_name:"Endless Time And Space" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Wang Chuan", picture_name:"Wang Chuan,Endless Time And Space,oil on canvas,1986"})
-create(ink_painting_no30:Work{work_id:"428",type:"work",work_name:Ink Painting No.30" ,work_material:"oil on canvas" ,year:"1987", artist_name:"Wang Chuan", picture_name:"Wang Chuan,Ink Painting No.30,ink,1987"})
-create(ink_painting_no31:Work{work_id:"428",type:"work",work_name:Ink Painting No.3" ,work_material:"oil on canvas" ,year:"1987", artist_name:"Wang Chuan", picture_name:"Wang Chuan,Ink Painting No.31,ink,1987"})
-
-
-
-
-
-
+create(ink_painting_no30:Work{work_id:"428",type:"work",work_name:Ink Painting No.30" ,work_material:"ink" ,year:"1987", artist_name:"Wang Chuan", picture_name:"Wang Chuan,Ink Painting No.30,ink,1987"})
+create(ink_painting_no40:Work{work_id:"429",type:"work",work_name:Ink Painting No.40" ,work_material:"ink" ,year:"1987", artist_name:"Wang Chuan", picture_name:"Wang Chuan,Ink Painting No.40,ink,1987"})
+create(ink_painting_no41:Work{work_id:"430",type:"work",work_name:Ink Painting No.41" ,work_material:"ink" ,year:"1987", artist_name:"Wang Chuan", picture_name:"Wang Chuan,Ink Painting No.41,ink,1987"})
+create(today_no101:Work{work_id:"431",type:"work",work_name:Today No.101" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Wu Shixiong", picture_name:"Wu Shixiong,Today No.101,oil on canvas,1985"})
+create(no_title21:Work{work_id:"432",type:"work",work_name:No Title" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Wu Shixiong", picture_name:"Wu Shixiong,No Title,oil on canvas,1985"})
+create(growing_lust:Work{work_id:"433",type:"work",work_name:Growing Lust" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Ying Weiping", picture_name:"Ying Weiping,Growing Lust,oil on canvas,1985"})
+create(flying_and_mats:Work{work_id:"434",type:"work",work_name:"Flying And Mats" ,work_material:"composite materials" ,year:"1985", artist_name:"Ying Weiping", picture_name:"Ying Weiping,Flying And Mats,composite materials,1985"})
+create(begining_of_objects:Work{work_id:"435",type:"work",work_name:"Beginning of Objects" ,work_material:"propylene on paper" ,year:"1985", artist_name:"Li Jian", picture_name:"Li Jian,Beginning of Objects,propylene on paper,1985"})
+create(begining_of_objects2:Work{work_id:"436",type:"work",work_name:"Begining Of Objects" ,work_material:"propylene on paper" ,year:"1985", artist_name:"Li Jian", picture_name:"Li Jian,Beginning of Objects,propylene on paper,1985"})
+create(no_title22:Work{work_id:"437",type:"work",work_name:"No Title 22" ,work_material:"cardboard" ,year:"1985", artist_name:"Wei Yilin", picture_name:"Wei Yilin,No Title,cardboard,1985"})
+create(body:Work{work_id:"438",type:"work",work_name:"Body" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Xie Yuxi", picture_name:"Xie Yuxi,No Title,oil on canvas,1985"})
+create(work_no1_xie:Work{work_id:"439",type:"work",work_name:"Body" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Xie Yuxi", picture_name:"Xie Yuxi,Work No.1,oil on canvas,1985"})
+create(shadow:Work{work_id:"440",type:"work",work_name:"Shadow" ,work_material:"Engraving" ,year:"1985", artist_name:"Xu Jing", picture_name:"Xu Jing,Shadow,engraving,1985"})
+create(thorns:Work{work_id:"441",type:"work",work_name:"Thorns" ,work_material:"Engraving" ,year:"1985", artist_name:"Ye Ling", picture_name:"Ye Ling,Thorns,engraving,1985"})
+create(caprice_no1:Work{work_id:"442",type:"work",work_name:"Caprice No.1" ,work_material:"Engraving" ,year:"1985", artist_name:"Li Yunying", picture_name:"Li Yunying,Caprice No.1,engraving,1985"})
 
 
 
