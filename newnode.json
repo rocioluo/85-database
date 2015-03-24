@@ -48,3 +48,22 @@ create(Yu_Shaoping:Artist{artist_id:"47",artist_name:"Yu Shaoping"})
 create(Yu_Bang:Artist{artist_id:"48",artist_name:"Yu Bang"})
 create(Liu_Guofu:Artist{artist_id:"49",artist_name:"Liu Guofu"})
 create(Lv_Tao:Artist{artist_id:"50",artist_name:"Lv Tao"})
+create(Zhang_Peili:Artist{artist_id:"51",artist_name:"Zhang Peili"})
+create(Geng_Jianyi:Artist{artist_id:"52",artist_name:"Geng Jianyi"})
+create(Song_Li:Artist{artist_id:"53",artist_name:"Song Lin"})
+create(Bao_Jianfei:Artist{artist_id:"54",artist_name:"Bao_Jianfei"})
+create(Wang_Qiang:Artist{artist_id:"55",artist_name:"Wang Qiang"})
+create(Cha_Li:Artist{artist_id:"56",artist_name:"Cha Li"})
+create(Xu_Jin:Artist{artist_id:"57",artist_name:"Xu Jin"})
+create(Cao_Xuelei:Artist{artist_id:"58",artist_name:"Cao Xuelei"})
+create(Wang_Guojun:Artist{artist_id:"59",artist_name:"Wang Guojun"})
+create(Yu_Youhan:Artist{artist_id:"60",artist_name:"Yu Youhan"})
+create(Feng_Lianghong:Artist{artist_id:"61",artist_name:"Feng Lianghong"})
+create(Xiao_Gu:Artist{artist_id:"62",artist_name:"Xiao Gu"})
+create(Gong_Jianqing:Artist{artist_id:"63",artist_name:"Gong Jianqing"})
+create(Wang_Xiaojun:Artist{artist_id:"63",artist_name:"Wang Xiaojun"})
+
+
+
+
+

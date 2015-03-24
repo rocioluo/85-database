@@ -488,7 +488,24 @@ create(no_title26:Work{work_id:"487",type:"work",work_name:"No Title" ,work_mate
 create(life_picture1:Work{work_id:"488",type:"work",work_name:"Life Picture 1" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Jian Chongmin", picture_name:"Jian Chongmin,Life Picture 1 ,oil on canvas,1985"})
 create(floating_cloud:Work{work_id:"489",type:"work",work_name:"Floating Cloud" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Jian Chongmin", picture_name:"Jian Chongmin,Floating Cloud ,oil on canvas,1985"})
 create(chaos_or_peace:Work{work_id:"490",type:"work",work_name:"Chaos Or Peace" ,work_material:"oil on canvas" ,year:"1985", artist_name:"Luo Jiancheng", picture_name:"Luo Jiancheng,Chaos Or Peace,oil on canvas,1985"})
-create(chaos_or_peace:Work{work_id:"491",type:"work",work_name:"Holding The Fire In Midnight" ,work_material:"oil on canvas" ,year:"1985", artist_name:""Xu Dacheng, picture_name:"Xu Dacheng,Holding The Fire In Midnight,oil on canvas,1985"})
+create(irritable_noon:Work{work_id:"491",type:"work",work_name:"Irritable Noon" ,work_material:"Chinese Painting" ,year:"1986", artist_name:"Duan Xiucang", picture_name:"Duan Xiucang,Irritable Noon,Chinese painting,1986"})
+create(a_day_in_plain:Work{work_id:"492",type:"work",work_name:"A Day In Plain" ,work_material:"Chinese Painting" ,year:"1986", artist_name:"Duan Xiucang", picture_name:"Duan Xiucang,A Day In Plain,Chinese painting,1986"})
+create(heaven_earth_people:Work{work_id:"493",type:"work",work_name:"Heaven Earth People" ,work_material:"Chinese Painting" ,year:"1985", artist_name:"Duan Xiucang", picture_name:"Duan Xiucang,Heaven Earth People,Chinese painting,1986"})
+create(red_autumn_landscape:Work{work_id:"494",type:"work",work_name:"Red Autumn Landscape" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Wang Huanqing", picture_name:"Wang Huanqing,Red Autumn Landscape,oil on canvas,1986"})
+create(plain_after_winter:Work{work_id:"495",type:"work",work_name:"Plain After Winter" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Wang Huanqing", picture_name:"Wang Huanqing,Re Autumn Landscape,oil on canvas,1986"})
+create(story_in_december:Work{work_id:"496",type:"work",work_name:"Story In December" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Wang Huanqing", picture_name:"Wang Huanqing,Story In December,oil on canvas,1986"})
+create(market_back_to_my_house:Work{work_id:"497",type:"work",work_name:"Market Back To My House" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Wang Huanqing", picture_name:"Wang Huanqing,Market Back To My House,oil on canvas,1986"})
+create(a_day_in_banpo:Work{work_id:"498",type:"work",work_name:A Day In Banpo" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Qiao Xiaoguang", picture_name:"Qiao Xiaoguang,A Day In Banpo,oil on canvas,1986"})
+create(bronzes_memory:Work{work_id:"499",type:"work",work_name:Bronze's Memory" ,work_material:"oil on canvas" ,year:"1986", artist_name:"Qiao Xiaoguang", picture_name:"Qiao Xiaoguang,Bronze's Memory,oil on canvas,1986"})
+create(ning_feng_zi:Work{work_id:"500",type:"work",work_name:Ning Feng Zi" ,work_material:"paper" ,year:"1986", artist_name:"Qiao Xiaoguang", picture_name:"Qiao Xiaoguang,Ning Feng Zi,paper,1986"})
+create(two_ghosts_are_:Work{work_id:"501",type:"work",work_name:"Two Ghosts Are",work_material:"paper" ,year:"1986", artist_name:"Qiao Xiaoguang", picture_name:"Qiao Xiaoguang,T,paper,1986wo Ghosts Are"})
+
+
+
+
+
+
+
 
 
 
