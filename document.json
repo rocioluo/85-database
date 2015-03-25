@@ -1,7 +1,7 @@
 create (beijing_oil_painting_research_groups_post1:Document{document_id:"1",type:"document",document_place:"Beijing",document_topic:"Beijing Oil Painting Research Groups",year:"1979",picture_name:"Beijing Oil Painting Research Groups,post 1"})
 create (beijing_oil_painting_research_groups_post2:Document{document_id:"2",type:"document",document_place:"Beijing",document_topic:"Beijing Oil Painting Research Groups",year:"1979",picture_name:"Beijing Oil Painting Research Groups,post 2"})
-create (seven_seven_seven_logo1:Document{document_id:"3",type:"document",document_topic:"seven seven seven group",year:"1984",picture_name:""Seven Seven Seven " Logo, Ren Jian Design,1984"})
-create (seven_seven_seven_logo2:Document{document_id:"4",type:"document",document_topic:"seven seven seven group",year:"1984",picture_name:""Seven Seven Seven " Logo, Shu Qun Design,1984"})
+create (seven_seven_seven_logo1:Document{document_id:"3",type:"document",document_topic:"seven seven seven group",year:"1984",picture_name:"Seven Seven Seven  Logo, Ren Jian Design,1984"})
+create (seven_seven_seven_logo2:Document{document_id:"4",type:"document",document_topic:"seven seven seven group",year:"1984",picture_name:"Seven Seven Seven  Logo, Shu Qun Design,1984"})
 create (northern_artists_group_magazine:Document{document_id:"5",type:"document",document_topic:"Northern Artists Group",year:"1985",picture_name:"Cover of Magazine 'God' from Northern Art Group,1985 "})
 create (northern_artists_group_exhibition_invitation:Document{document_id:"6",type:"document",document_topic:"Northern Artists Group",year:"1987",picture_name:"Invitation of Northern Artists Group Biennial,1987 "})
 create (northern_artists_group_exhibition_guest_book:Document{document_id:"7",type:"document",document_topic:"Northern Artists Group",year:"1987",picture_name:"Guest Book of Northern Artists Group Biennial,1987"})
@@ -9,45 +9,44 @@ create (northern_artists_group_exhibition_group_photo:Document{document_id:"8",t
 create (rational_painting_conference_scene1:Document{document_id:"9",type:"document",document_topic:"Northern Artists Group",year:"1987",picture_name:"Rational Painting Conference Scene"})
 create (rational_painting_conference_scene2:Document{document_id:"10",type:"document",document_topic:"Northern Artists Group",year:"1987",picture_name:"Rational Painting Conference Scene"})
 create (cover_of_the_booklet_international_youth_year:Document{document_id:"11",type:"document",document_topic:"Jiangsu Youth Art Week",year:"1985",picture_name:"Cover of the booklet International Youth Year, Jiangsu Youth Art Week,1985"})
-create (jiangsu_youth_art_week_large_modern_art_exhibition_exhibition contract:Document{document_id:"12",type:"document",document_topic:"Jiangsu Youth Art Week",year:"1985",picture_name:"Jiangsu Youth Art Week,Large Modern Art Exhibition,exhibition contract,1985"})
-create (white_sail_art_photography_exhibition_album_cover,:Document{document_id:"13",type:"document",document_topic:"White Sail",year:"1985",picture_name:"White Sail Art Photography Exhibition Album, cover,1985"})
-create (white_sail_art_photography_exhibition_album_content1,:Document{document_id:"14",type:"document",document_topic:"White Sail",year:"1985",picture_name:"White Sail Art Photography Exhibition Album, content 1,1985"})
-create (white_sail_art_photography_exhibition_album_content2,:Document{document_id:"15",type:"document",document_topic:"White Sail",year:"1985",picture_name:"White Sail Art Photography Exhibition Album, content 2,1985"})
-create (white_sail_art_photography_exhibition_album_invitation,:Document{document_id:"16",type:"document",document_topic:"White Sail",year:"1985",picture_name:"White Sail Art Photography Exhibition Album,invitation,1985"})
-create (magazine_white_sail,:Document{document_id:"17",type:"document",document_topic:"White Sail",year:"1985",picture_name: "Magazine White Sail, 1985"})
-create (red_journey_first_posthouse_painting_exhibition_academic _conference_ccence:Document{document_id:"18",type:"document",document_topic:"Red Journey",year:"1987",picture_name: "Red,Journey, "First Posthouse Painting Exhibition" Academic Conference Scence, From left to right:Yang Zhiling, Chen Dali,Shen Xingong, Ding Fang, Guan Ce, Liu Ming, Cao Xiaodong, Yu Qiping， Chai Xiaogang, Su Xianting， Fang Jun, Liu Wei,1987.5.20"})
-create (about_x1:Document{document_id:"19",type:"document",document_topic:"work draft",year:"1985",picture_name: "Zhang Peili,About "x?" draft 1, 1985"})
-create (about_x2:Document{document_id:"20",type:"document",document_topic:"work draft",year:"1985",picture_name: "Zhang Peili,About "x?" draft 2, 1985"})
-create (first_shanghai_youth_artwork_exhibition_cover:Document{document_id:"21",type:"document",document_topic:"work draft",year:"1985",picture_name: "Zhang Peili,About "x?" draft 2, 1985"})
-create(sea_level_86_cover:Document{document_id:"22",type:"document",document_topic:"document",year:"1986",picture_name: "Sea Level '86 Cover"}
-create(sea_level_86_title_page:Document{document_id:"23",type:"document",document_topic:"document",year:"1986",picture_name: "Sea Level '86 Cover Page"}
-create(sea_level_86_page1:Document{document_id:"24",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 1"}
-create(sea_level_86_page2:Document{document_id:"25",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 2"}
-create(sea_level_86_page3:Document{document_id:"25",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 3"}
-create(sea_level_86_page4:Document{document_id:"26",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 4"}
-create(sea_level_86_page5:Document{document_id:"28",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 5"}
-create(sea_level_86_page6:Document{document_id:"29",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 6"}
-create(sea_level_86_page7:Document{document_id:"30",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 7"}
-create(sea_level_86_page8:Document{document_id:"31",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level '86 Page 8"}
-create(sea_level_86_page9:Document{document_id:"32",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Concave – Convex Exhibition Post, 1986"}
-create(qi1:Document{document_id:"33",type:"document",document_topic:"work",year:"1984",picture_name: "Chen Zhen, Qi Scene, 1986"}
-create(qi2:Document{document_id:"34",type:"document",document_topic:"work",year:"1984",picture_name: "Chen Zhen, Qi scene, 1986"}
+create (jiangsu_youth_art_week_large_modern_art_exhibition_exhibition_contract:Document{document_id:"12",type:"document",document_topic:"Jiangsu Youth Art Week",year:"1985",picture_name:"Jiangsu Youth Art Week,Large Modern Art Exhibition,exhibition contract,1985"})
+create (white_sail_art_photography_exhibition_album_cover:Document{document_id:"13",type:"document",document_topic:"White Sail",year:"1985",picture_name:"White Sail Art Photography Exhibition Album, cover,1985"})
+create (white_sail_art_photography_exhibition_album_content1:Document{document_id:"14",type:"document",document_topic:"White Sail",year:"1985",picture_name:"White Sail Art Photography Exhibition Album, content 1,1985"})
+create (white_sail_art_photography_exhibition_album_content2:Document{document_id:"15",type:"document",document_topic:"White Sail",year:"1985",picture_name:"White Sail Art Photography Exhibition Album, content 2,1985"})
+create (white_sail_art_photography_exhibition_album_invitation:Document{document_id:"16",type:"document",document_topic:"White Sail",year:"1985",picture_name:"White Sail Art Photography Exhibition Album,invitation,1985"})
+create (magazine_white_sail:Document{document_id:"17",type:"document",document_topic:"White Sail",year:"1985",picture_name: "Magazine White Sail, 1985"})
+create (red_journey_first_posthouse_painting_exhibition_academic_conference_scence:Document{document_id:"18",type:"document",document_topic:"Red Journey",year:"1987",picture_name: "Red,Journey, First Posthouse Painting Exhibition Academic Conference Scene, From left to right:Yang Zhiling, Chen Dali,Shen Xingong, Ding Fang, Guan Ce, Liu Ming, Cao Xiaodong, Yu Qiping， Chai Xiaogang, Su Xianting， Fang Jun, Liu Wei,1987.5.20"})
+create (about_x1:Document{document_id:"19",type:"document",document_topic:"work draft",year:"1985",picture_name: "Zhang Peili,About x? draft 1, 1985"})
+create (about_x2:Document{document_id:"20",type:"document",document_topic:"work draft",year:"1985",picture_name: "Zhang Peili,About x? draft 2, 1985"})
+create (first_shanghai_youth_artwork_exhibition_cover:Document{document_id:"21",type:"document",document_topic:"work draft",year:"1985",picture_name: "Zhang Peili,About x? draft 2, 1985"})
+create(sea_level_86_cover:Document{document_id:"22",type:"document",document_topic:"document",year:"1986",picture_name: "Sea Level 86 Cover"})
+create(sea_level_86_title_page:Document{document_id:"23",type:"document",document_topic:"document",year:"1986",picture_name: "Sea Level 86 Cover Page"})
+create(sea_level_86_page1:Document{document_id:"24",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level 86 Page 1"})
+create(sea_level_86_page2:Document{document_id:"25",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level 86 Page 2"})
+create(sea_level_86_page3:Document{document_id:"25",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level 86 Page 3"})
+create(sea_level_86_page4:Document{document_id:"26",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level 86 Page 4"})
+create(sea_level_86_page5:Document{document_id:"28",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level 86 Page 5"})
+create(sea_level_86_page6:Document{document_id:"29",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level 86 Page 6"})
+create(sea_level_86_page7:Document{document_id:"30",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level 86 Page 7"})
+create(sea_level_86_page8:Document{document_id:"31",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Sea Level 86 Page 8"})
+create(sea_level_86_page9:Document{document_id:"32",type:"document",document_topic:"exhibition",year:"1986",picture_name: "Concave – Convex Exhibition Post, 1986"})
+create(qi1:Document{document_id:"33",type:"document",document_topic:"work",year:"1984",picture_name: "Chen Zhen, Qi Scene, 1986"})
+create(qi2:Document{document_id:"34",type:"document",document_topic:"work",year:"1984",picture_name: "Chen Zhen, Qi scene, 1986"})
 create (huangyan_wangbaichang_talk:Document{document_id:"35",type:"document",year:"1987",picture_name:"Huang Yan and Wang Bichang at Chang Chun University, 1987"})
 create (new_concept_exhibition_post:Document{document_id:"36",type:"document",year:"1987",picture_name:"New Concept Exhibition Concept, 1987"})
 create (m_modern_art_exhibition_logo_shanghai_fujian_youth_art_exhibition_artists_picture:Document{document_id:"37",type:"document",year:"1985",picture_name:"M modern art Exhibition Logo Shanghai Fujian Youth Art Exhibition Artists Picture, 1985"})
 create (m_modern_art_exhibition_introduction1:Document{document_id:"38",type:"document",year:"1985",picture_name:"M modern art Exhibition Introduction 1, 1985"})
 create (m_modern_art_exhibition_introduction2:Document{document_id:"39",type:"document",year:"1985",picture_name:"M modern art Exhibition Introduction 2, 1985"})
-create (m_modern_art_exhibition_introduction2:Document{document_id:"40",type:"document",year:"1985",picture_name:"M modern art Exhibition Introduction 2, 1985"})
 create (shanghai_fujian_youth_art_exhibition_post:Document{document_id:"41",type:"document",year:"1985",picture_name:"Shanghai Fujian Youth Art Exhibition, 1985"})
-create (m_modern_art_exhibition_review_mass media:Document{document_id:"42",type:"document",year:"1985",picture_name:"M modern art Exhibition Review Mass Media, 1985"})
+create (m_modern_art_exhibition_review_mass_media:Document{document_id:"42",type:"document",year:"1985",picture_name:"M modern art Exhibition Review Mass Media, 1985"})
 create (new_figure_nanjing_exhibition_invitation_cover:Document{document_id:"43",type:"document",year:"1985",picture_name:"New Figure Nanjing Exhibition Invitation Cover, 1985"})
 create (new_figure_nanjing_exhibition_invitation_inner_page:Document{document_id:"44",type:"document",year:"1985",picture_name:"New Figure Nanjing Exhibition Invitation Inner Page, 1985"})
 create (second_new_figure_shanaghai_exhibition_conference_invitation_cover:Document{document_id:"45",type:"document",year:"1985",picture_name:"Second New Figure Shanghai Exhibition Conference Invitation Cover, 1985"})
 create (second_new_figure_shanaghai_exhibition_conference_invitation_inner_page:Document{document_id:"46",type:"document",year:"1985",picture_name:"Second New Figure Shanghai Exhibition Conference Invitation Inner Page, 1985"})
 create (second_new_figure_shanaghai_exhibition_conference_invitation_word:Document{document_id:"47",type:"document",year:"1985",picture_name:"Second New Figure Shanghai Exhibition Conference Invitation Word, 1985"})
 create (forth_new_figure_chongqing_iterate_academic_activity_booklet:Document{document_id:"48",type:"document",year:"1985",picture_name:"Forth New Figure Chongqing Iterate Academic Activity Booklet 1, 1986"})
-create (third_new_figure_yunnan_iterate_academic_activity_booklet:Document{document_id:"48",type:"document",year:"1985",picture_name:"third New Figure Yunnan Iterate Academic Activity Booklet 1, 1986"})
-create (third_new_figure_yunnan_iterate_academic_activity_booklet:Document{document_id:"48",type:"document",year:"1985",picture_name:"third New Figure Yunnan Iterate Academic Activity Booklet 2, 1986"})
+create (third_new_figure_yunnan_iterate_academic_activity_booklet1:Document{document_id:"48",type:"document",year:"1985",picture_name:"third New Figure Yunnan Iterate Academic Activity Booklet 1, 1986"})
+create (third_new_figure_yunnan_iterate_academic_activity_booklet2:Document{document_id:"48",type:"document",year:"1985",picture_name:"third New Figure Yunnan Iterate Academic Activity Booklet 2, 1986"})
 create (calling_society_member_introduction:Document{document_id:"51",type:"document",year:"1985",picture_name:"Calling Society Member Introduction, 1985"})
 create (calling_society_third_exhibition_post:Document{document_id:"52",type:"document",year:"1985",picture_name:"Calling Society Third Exhibition Post, 1985"})
 
