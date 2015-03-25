@@ -24,7 +24,6 @@ create(Bei_Dao:Artist{artist_id:"23",artist_name:"Bei_Dao",career:"poet"})
 create(Yang_ Yiping:Artist{artist_id:"24",artist_name:"Yang Yiping"})
 create(Huang_Rui:Artist{artist_id:"25",artist_name:"Huang Rui"})
 create(Lin_Wei:Artist{artist_id:"26",artist_name:"Lin Wei"})
-create(Wang_Yaling:Artist{artist_id:"27",artist_name:"Wang Yaling"})
 create(Wu_Xiaoyun:Artist{artist_id:"28",artist_name:"Wu Xiaoyun"})
 create(Ren_Rong:Artist{artist_id:"29",artist_name:"Ren Rong"})
 create(Xu_Weide:Artist{artist_id:"30",artist_name:"Xu Weide"})
@@ -61,7 +60,175 @@ create(Yu_Youhan:Artist{artist_id:"60",artist_name:"Yu Youhan"})
 create(Feng_Lianghong:Artist{artist_id:"61",artist_name:"Feng Lianghong"})
 create(Xiao_Gu:Artist{artist_id:"62",artist_name:"Xiao Gu"})
 create(Gong_Jianqing:Artist{artist_id:"63",artist_name:"Gong Jianqing"})
-create(Wang_Xiaojun:Artist{artist_id:"63",artist_name:"Wang Xiaojun"})
+create(Wang_Xiaojun:Artist{artist_id:"64",artist_name:"Wang Xiaojun"})
+create (Yang_Hui:Artist{artist_id:"65",artist_name:"Yang Hui"})
+create (Zhou_Shilong:Artist{artist_id:"66",artist_name:"Zhou Shilong"})
+create (Jian_Jun:Artist{artist_id:"67",artist_name:"Jian Jun"})
+create (Yu_Sen:Artist{artist_id:"68",artist_name:"Yu Sen"})
+create (Zhang_Jieming:Artist{artist_id:"69",artist_name:"Zhang Jieming"})
+create (Wang_Lianling:Artist{artist_id:"70",artist_name:"Wang Lianling"})
+create (Li_Shan:Artist{artist_id:"71",artist_name:"Li Shan"})
+create (Yu Youlian:Artist{artist_id:"72",artist_name:"Yu Youlian"})
+create (Zhao_Yifu:Artist{artist_id:"73",artist_name:"Zhao Yifu"})
+create (Hong_Jijie:Artist{artist_id:"74",artist_name:"Hong Jijie"})
+create (Chen_Zhen:Artist{artist_id:"75",artist_name:"Chen Zhen"})
+create (Fang_Zhuang:Artist{artist_id:"76",artist_name:"Fang Zhuang"})
+create (Ye_Mu:Artist{artist_id:"77",artist_name:"Ye Mu"})
+create (Shen_Fan:Artist{artist_id:"78",artist_name:"Shen Fan"})
+create (Zhou_Changjiang:Artist{artist_id:"79",artist_name:"Zhou Changjiang"})
+
+create (Mo_Tuo:Artist{artist_id:"80",artist_name:"Mo Tuo"})
+create (Wang_Hui:Artist{artist_id:"81",artist_name:"Wang Hui"})
+create (Zhou_Peide:Artist{artist_id:"82",artist_name:"Zhou Peide"})
+create (Song_Haidong:Artist{artist_id:"83",artist_name:"Song Haidong"})
+create (Xiao_Xiaolan:Artist{artist_id:"84",artist_name:"Xiao Xiaolan"})
+create (Shi_Jingsheng:Artist{artist_id:"85",artist_name:"Shi Jingsheng"})
+create (Lei_Min:Artist{artist_id:"86",artist_name:"Lei Min"})
+create(Xu_Hong:Artist{artist_id:"87",artist_name:"Xu Hong"})
+create(Sun_Liang:Artist{artist_id:"88",artist_name:"Sun Liang"})
+create(Yu_Jiangang:Artist{artist_id:"89",artist_name:"Yu_Jiangang"})
+create(Wu_ShanZhuan:Artist{artist_id:"90",artist_name:"Wu ShanZhuan"})
+create(Gu_Wenda:Artist{artist_id:"91",artist_name:"Gu Wenda"})
+create(Wu_Shaoxiang:Artist{artist_id:"92",artist_name:"Wu Shaoxiang"})
+create(Xu_Bing:Artist{artist_id:"93",artist_name:"Xu Bing"})
+create(Liu_Xiangdong:Artist{artist_id:"94",artist_name:"Liu Xiangdong"})
+create(Cai_Guoqiang:Artist{artist_id:"95",artist_name:"Cai Guoqiang"})
+create(Huang_Yongping:Artist{artist_id:"96",artist_name:"Huang Yongping"})
+create(Mao_Xuhui:Artist{artist_id:"97",artist_name:"Mao Xuhui"})
+create(Zhang_Xiaogang:Artist{artist_id:"98",artist_name:"Zhang Xiaogang"})
+create(Ye_Yongqing:Artist{artist_id:"99",artist_name:"Ye Yongqing"})
+create(Pan_Dehai:Artist{artist_id:"100",artist_name:"Pan Dehai"})
+create(Fu_Liya:Artist{artist_id:"101",artist_name:"Fu Liya"})
+create(Ding_Defu:Artist{artist_id:"102",artist_name:"Ding Defu"})
+create(Sun_Guojuan:Artist{artist_id:"103",artist_name:"Sun Guojuan"})
+create(Hou_Wenyi:Artist{artist_id:"104",artist_name:"Hou Wenyi"})
+create(Zhai_Wei:Artist{artist_id:"105",artist_name:"Zhai Wei"})
+create(Yang_Huangli:Artist{artist_id:"106",artist_name:"Yang Huangli"})
+create(Zhang_Long:Artist{artist_id:"107",artist_name:"Zhang Long"})
+create(Zhang_Xiaping:Artist{artist_id:"108",artist_name:"Zhang Xiaping"})
+create(Sun_Shifan:Artist{artist_id:"109",artist_name:"Sun Shifan"})
+create(Liu_Quan:Artist{artist_id:"110",artist_name:"Liu Quan"})
+create(Cao Li:Artist{artist_id:"111",artist_name:"Cao Li"})
+create(Xia Xiaowan:Artist{artist_id:"112",artist_name:"Xia Xiaowan"})
+create(Liang_Yuan:Artist{artist_id:"113",artist_name:"Liang Yuan"})
+create(Chen_Qiang:Artist{artist_id:"114",artist_name:"Chen Qiang"})
+create(Li_Baoying:Artist{artist_id:"115",artist_name:"Li Baoying"})
+create(Liu_Changshun:Artist{artist_id:"116",artist_name:"Liu Changshun"})
+create(Zhang_Song:Artist{artist_id:"117",artist_name:"Zhang Song"})
+create(Zhu_Haikun:Artist{artist_id:"118",artist_name:"Zhu Haikun"})
+create(Lin_Chunyan:Artist{artist_id:"119",artist_name:"Lin Chunyan"})
+create(Zhang_Yibo:Artist{artist_id:"120",artist_name:"Zhang Yibo"})
+create(Meng_Luding:Artist{artist_id:"121",artist_name:"Meng Luding"})
+create(Chen_Dan:Artist{artist_id:"122",artist_name:"Chen Dan"})
+create(Guan_Wei:Artist{artist_id:"123",artist_name:"Guan Wei"})
+create(Zhao_Hui:Artist{artist_id:"124",artist_name:"Zhao Hui"})
+create(Chen_Wenqi:Artist{artist_id:"125",artist_name:"Chen Wenqi"})
+create(Zhang_Qun:Artist{artist_id:"126",artist_name:"Zhang Qun"})
+create(Wang_Youshen:Artist{artist_id:"127",artist_name:"Wang Youshen"})
+create(Jia_Bo:Artist{artist_id:"128",artist_name:"Jia Bo"})
+create(Sun_Jianping:Artist{artist_id:"129",artist_name:"Sun Jianping"})
+create(Li_Jin:Artist{artist_id:"130",artist_name:"Li Jin"})
+create(Yan_Binghui:Artist{artist_id:"131",artist_name:"Yan Binghui"})
+create(Lv_Peihuan:Artist{artist_id:"132",artist_name:"Lv Peihuan"})
+create(Fan_Bo:Artist{artist_id:"133",artist_name:"Fan Bo"})
+create(Fu_Zenan:Artist{artist_id:"134",artist_name:"Fu Zenan"})
+create(Fu_Zewu:Artist{artist_id:"135",artist_name:"Fu Zewu"})
+create(Le_Xiaoshi:Artist{artist_id:"136",artist_name:"Le Xiaoshi"})
+create(Ma_Baokang:Artist{artist_id:"137",artist_name:"Ma Baokang"})
+create(Ma_Xiaoxing:Artist{artist_id:"138",artist_name:"Ma Xiaoxing"})
+create(Pi_Zhiwei:Artist{artist_id:"139",artist_name:"Pi Zhiwei"})
+create(Shao_Pusheng:Artist{artist_id:"140",artist_name:"Shao Pusheng"})
+create(Shao_Xianlan:Artist{artist_id:"141",artist_name:"Shao Xianlan"})
+create(Shi_Xiaojun:Artist{artist_id:"142",artist_name:"Shi Xiaojun"})
+create(Tang_Tao:Artist{artist_id:"143",artist_name:"Tang Tao"})
+create(Wang_Aiqin:Artist{artist_id:"144",artist_name:"Wang Aiqin"})
+create(Wang_Dun:Artist{artist_id:"145",artist_name:"Wang Dun"})
+create(Xia_Funing:Artist{artist_id:"146",artist_name:"Xia Funing"})
+create(Yang_Wenqun:Artist{artist_id:"147",artist_name:"Yang Wenqun"})
+create(Zhu_Shaoqiang:Artist{artist_id:"148",artist_name:"Zhu Shaoqiang"})
+create(Wu_Pingren:Artist{artist_id:"149",artist_name:"Wu Pingren"})
+create(Qu_Yan:Artist{artist_id:"150",artist_name:"Qu Yan"})
+create(Li_Yafei:Artist{artist_id:"151",artist_name:"Li Yafei"})
+create(Wang_Lu:Artist{artist_id:"152",artist_name:"Wang Lu"})
+create(Weng_Jianqing:Artist{artist_id:"153",artist_name:"Weng Jianqing"})
+create(Yuan_Xianming:Artist{artist_id:"154",artist_name:"Yuan Xianming"})
+create(Shi_Dihua:Artist{artist_id:"155",artist_name:"Shi Dihua"})
+create(Gao_Tianming:Artist{artist_id:"156",artist_name:"Gao Tianming"})
+create(Wang_Chuan:Artist{artist_id:"157",artist_name:"Wang Chuan"})
+create(Wu_Shixiong:Artist{artist_id:"158",artist_name:"Wu Shixiong"})
+create(Ying_Weiping:Artist{artist_id:"159",artist_name:"Ying Weiping"})
+create(Li_Jian:Artist{artist_id:"160",artist_name:"Li Jian"})
+create(Wei_Xilin:Artist{artist_id:"161",artist_name:"Wei Xilin"})
+create(Xie_Yuxi:Artist{artist_id:"162",artist_name:"Xie Yuxi"})
+create(Xu_Jing:Artist{artist_id:"163",artist_name:"Xu Jing"})
+create(Ye_Ling:Artist{artist_id:"164",artist_name:"Ye Ling"})
+create(Li_Yunying:Artist{artist_id:"165",artist_name:"Li Yunying"})
+create(Cao_Yong:Artist{artist_id:"166",artist_name:"Cao Yong"})
+create(Yang_Shufeng:Artist{artist_id:"167",artist_name:"Yang Shufeng"})
+create(Liu_Zheng:Artist{artist_id:"168",artist_name:"Liu Zheng"})
+create(Huang_Yulan:Artist{artist_id:"169",artist_name:"Huang Yulan"})
+create(Fu_Qiang:Artist{artist_id:"170",artist_name:"Fu Qiang"})
+create(Shi_Dan:Artist{artist_id:"171",artist_name:"Shi Dan"})
+create(Hu_Shaquan:Artist{artist_id:"172",artist_name:"Hu Shaquan"})
+create(Wen_Dusu:Artist{artist_id:"173",artist_name:"Wen Dusu"})
+create(Zhou_Yu:Artist{artist_id:"174",artist_name:"Zhou Yu"})
+create(Chen_Yuzhu:Artist{artist_id:"175",artist_name:"Chen Yuzhu"})
+create(Li_Yanping:Artist{artist_id:"176",artist_name:"Li Yanping"})
+create(Li_Zhibao:Artist{artist_id:"177",artist_name:"Li Zhibao"})
+create(Qi_Yong:Artist{artist_id:"178",artist_name:"Qi Yong"})
+create(Yu_Xiaodong:Artist{artist_id:"179",artist_name:"Yu Xiaodong"})
+create(Zhai_Yaofei:Artist{artist_id:"180",artist_name:"Zhai Yaofei"})
+create(Wang_Linfa:Artist{artist_id:"181",artist_name:"Wang Linfa"})
+create(Dai_Guangyu:Artist{artist_id:"182",artist_name:"Dai Guangyu"})
+create(Huangpu_Qiren:Artist{artist_id:"183",artist_name:"Huangpu Qiren"})
+create(Jian_Chongmin:Artist{artist_id:"184",artist_name:"Jian Chongmin"})
+create(Li_Jixiang:Artist{artist_id:"185",artist_name:"Li Jixiang"})
+create(Luo_Lunjian:Artist{artist_id:"186",artist_name:"Luo Lunjian"})
+create(Xu_Dachen:Artist{artist_id:"187",artist_name:"Xu Dachen"})
+create(Duan_Xiucang:Artist{artist_id:"188",artist_name:"Duan_Xiucang"})
+create(Wang_Huanqing:Artist{artist_id:"189",artist_name:"Wang Huanqing"})
+create(Qiao_Xiaoguang:Artist{artist_id:"190",artist_name:"Qiao Xiaoguang"})
+create(Zhu_Yanguang:Artist{artist_id:"191",artist_name:"Zhu Yanguang"})
+create(Ren Xiaoyin:Artist{artist_id:"192",artist_name:"Ren Xiaoyin"})
+create(Chen_Yufei:Artist{artist_id:"193",artist_name:"Chen Yufei"})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
