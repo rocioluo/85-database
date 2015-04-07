@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="85-database : independent study">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>85-database</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/rocioluo/85-database">View on GitHub</a>
+
+          <h1 id="project_title">85-database</h1>
+          <h2 id="project_tagline">independent study</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/rocioluo/85-database/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/rocioluo/85-database/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h3>
+<a id="welcome-to-85-movement-picture-archive" class="anchor" href="#welcome-to-85-movement-picture-archive" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to 85 movement picture archive</h3>
+
+<pre><code>$ cd your_repo_root/repo_name
+$ git fetch origin
+$ git checkout gh-pages
+</code></pre>
+
+<h3>
+<a id="background" class="anchor" href="#background" aria-hidden="true"><span class="octicon octicon-link"></span></a>Background</h3>
+
+<p>85 movement is an important period in Chinese contemporary art. Showing the impact of western culture following China's opening and reform (Gao ,2008), numerous unofficial art groups appeared spontaneously from 1984 to 1986, leading 85 art new wave to this exuberant period in the history (Wu, 2010). As the participator and artist, Professor Gao experienced that movement, and fortunately, he holds a lot of first-hand information including artists' letters, conference letter, and photos of exhibitions. Most of them are organized in his book the 85 movement, an anthology of historical sources. I appreciate a lot that he admits me to use his work as row data to do my research.</p>
+
+<h3>
+<a id="structure-of-the-picture-order-index-of-pictures" class="anchor" href="#structure-of-the-picture-order-index-of-pictures" aria-hidden="true"><span class="octicon octicon-link"></span></a>Structure of the picture order (index of pictures)</h3>
+
+<p>Type of pictures &amp; Structure of the picture note</p>
+
+<p>1) Document
+example picture name: Xu Zhou modern art exhibition, Xu Zhou, 1986
+structure: Document name, Place(some do not have, but can logically get from context), Time</p>
+
+<p>2) Action
+example picture name: Protest of the Stars Group,1979,Beijing(Wang Keping is holding the logo)
+structure: Action name, Time, Description</p>
+
+<p>3) Work
+example picture name: Wang Keping, Silence, wood sculpture,1979
+structure: Artist, Work name, Material, Time</p>
+
+<h3>
+<a id="data-structure-based-on-pictures-structure" class="anchor" href="#data-structure-based-on-pictures-structure" aria-hidden="true"><span class="octicon octicon-link"></span></a>Data structure based on pictures' structure</h3>
+
+<p>There are 5 types of data which are stored into Neo4j</p>
+
+<p>1) Document
+attribute: 
+document_id,type(document),document_place,document_topic(document name&amp;description),picture_name</p>
+
+<p>2) Action
+attribute:
+action_id,type（scenario, protest, photo),action_place,year,picture_name</p>
+
+<p>3) Work
+attribute:
+work_id,type(work),work_name,work_material,year,artist_name,picture_name</p>
+
+<p>4) Artist
+attribute:
+artist_name,artist_id</p>
+
+<p>5) Exhibition
+attribute:
+exhibition_name,exhibition_id</p>
+
+<h3>
+<a id="the-relation-between-attributes-of-pictures" class="anchor" href="#the-relation-between-attributes-of-pictures" aria-hidden="true"><span class="octicon octicon-link"></span></a>The relation between attributes of pictures</h3>
+
+<h3>
+<a id="searching" class="anchor" href="#searching" aria-hidden="true"><span class="octicon octicon-link"></span></a>Searching</h3>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">85-database maintained by <a href="https://github.com/rocioluo">rocioluo</a></p>
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
